@@ -1,0 +1,577 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  annotations:
+    meta.helm.sh/release-name: camunda
+    meta.helm.sh/release-namespace: camunda
+  creationTimestamp: '2023-08-30T01:06:21Z'
+  generation: 2
+  labels:
+    app: camunda-platform
+    app.kubernetes.io/component: zeebe-broker
+    app.kubernetes.io/instance: camunda
+    app.kubernetes.io/managed-by: Helm
+    app.kubernetes.io/name: zeebe
+    app.kubernetes.io/part-of: camunda-platform
+    app.kubernetes.io/version: ob.8.2.12-aura-exporter5
+    helm.sh/chart: zeebe-8.2.12
+  managedFields:
+    - apiVersion: apps/v1
+      fieldsType: FieldsV1
+      fieldsV1:
+        f:metadata:
+          f:annotations:
+            .: {}
+            f:meta.helm.sh/release-name: {}
+            f:meta.helm.sh/release-namespace: {}
+          f:labels:
+            .: {}
+            f:app: {}
+            f:app.kubernetes.io/component: {}
+            f:app.kubernetes.io/instance: {}
+            f:app.kubernetes.io/managed-by: {}
+            f:app.kubernetes.io/name: {}
+            f:app.kubernetes.io/part-of: {}
+            f:app.kubernetes.io/version: {}
+            f:helm.sh/chart: {}
+        f:spec:
+          f:podManagementPolicy: {}
+          f:replicas: {}
+          f:revisionHistoryLimit: {}
+          f:selector: {}
+          f:serviceName: {}
+          f:template:
+            f:metadata:
+              f:annotations:
+                .: {}
+                f:dapr.io/app-id: {}
+                f:dapr.io/app-port: {}
+                f:dapr.io/enabled: {}
+                f:dapr.io/sidecar-cpu-limit: {}
+                f:dapr.io/sidecar-memory-limit: {}
+              f:labels:
+                .: {}
+                f:app: {}
+                f:app.kubernetes.io/component: {}
+                f:app.kubernetes.io/instance: {}
+                f:app.kubernetes.io/managed-by: {}
+                f:app.kubernetes.io/name: {}
+                f:app.kubernetes.io/part-of: {}
+                f:app.kubernetes.io/version: {}
+                f:helm.sh/chart: {}
+            f:spec:
+              f:affinity:
+                .: {}
+                f:podAntiAffinity:
+                  .: {}
+                  f:requiredDuringSchedulingIgnoredDuringExecution: {}
+              f:containers:
+                k:{"name":"zeebe"}:
+                  .: {}
+                  f:env:
+                    .: {}
+                    k:{"name":"JAVA_TOOL_OPTIONS"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"K8S_NAME"}:
+                      .: {}
+                      f:name: {}
+                      f:valueFrom:
+                        .: {}
+                        f:fieldRef: {}
+                    k:{"name":"K8S_NAMESPACE"}:
+                      .: {}
+                      f:name: {}
+                      f:valueFrom:
+                        .: {}
+                        f:fieldRef: {}
+                    k:{"name":"K8S_POD_NAME"}:
+                      .: {}
+                      f:name: {}
+                      f:valueFrom:
+                        .: {}
+                        f:fieldRef: {}
+                    k:{"name":"K8S_SERVICE_NAME"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"LC_ALL"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_ACTIVITY_ID_KEY"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_CORRELATION_ID_KEY"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_DAPR_ADDRESS"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_DAPR_PUBSUB_NAME"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_DAPR_TOPIC"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_DISABLED_RECORD_TYPES"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_DISABLED_VALUE_TYPES"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_REQUEST_TOPIC"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_AURA_TRANSACTION_TOPIC"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_CLUSTER_CLUSTERNAME"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_CLUSTER_CLUSTERSIZE"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_CLUSTER_INITIALCONTACTPOINTS"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_CLUSTER_PARTITIONSCOUNT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_CLUSTER_REPLICATIONFACTOR"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_DATA_DISKUSAGECOMMANDWATERMARK"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_DATA_DISKUSAGEREPLICATIONWATERMARK"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_DATA_SNAPSHOTPERIOD"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_AURA_CLASSNAME"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_AURA_JARPATH"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_BULK_SIZE"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_INDEX_PREFIX"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_URL"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_CLASSNAME"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_GATEWAY_CLUSTER_REQUESTTIMEOUT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_GATEWAY_ENABLE"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_NETWORK_ADVERTISEDHOST"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_NETWORK_COMMANDAPI_PORT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_NETWORK_INTERNALAPI_PORT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_NETWORK_MONITORINGAPI_PORT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_THREADS_CPUTHREADCOUNT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_BROKER_THREADS_IOTHREADCOUNT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_GATEWAY_CLUSTER_REQUESTTIMEOUT"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                    k:{"name":"ZEEBE_LOG_LEVEL"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+                  f:image: {}
+                  f:imagePullPolicy: {}
+                  f:name: {}
+                  f:ports:
+                    .: {}
+                    k:{"containerPort":9600,"protocol":"TCP"}:
+                      .: {}
+                      f:containerPort: {}
+                      f:name: {}
+                      f:protocol: {}
+                    k:{"containerPort":26501,"protocol":"TCP"}:
+                      .: {}
+                      f:containerPort: {}
+                      f:name: {}
+                      f:protocol: {}
+                    k:{"containerPort":26502,"protocol":"TCP"}:
+                      .: {}
+                      f:containerPort: {}
+                      f:name: {}
+                      f:protocol: {}
+                  f:readinessProbe:
+                    .: {}
+                    f:failureThreshold: {}
+                    f:httpGet:
+                      .: {}
+                      f:path: {}
+                      f:port: {}
+                      f:scheme: {}
+                    f:initialDelaySeconds: {}
+                    f:periodSeconds: {}
+                    f:successThreshold: {}
+                    f:timeoutSeconds: {}
+                  f:resources:
+                    .: {}
+                    f:limits:
+                      .: {}
+                      f:cpu: {}
+                      f:memory: {}
+                    f:requests:
+                      .: {}
+                      f:cpu: {}
+                      f:memory: {}
+                  f:terminationMessagePath: {}
+                  f:terminationMessagePolicy: {}
+                  f:volumeMounts:
+                    .: {}
+                    k:{"mountPath":"/exporters"}:
+                      .: {}
+                      f:mountPath: {}
+                      f:name: {}
+                    k:{"mountPath":"/usr/local/bin/startup.sh"}:
+                      .: {}
+                      f:mountPath: {}
+                      f:name: {}
+                      f:subPath: {}
+                    k:{"mountPath":"/usr/local/zeebe/data"}:
+                      .: {}
+                      f:mountPath: {}
+                      f:name: {}
+              f:dnsPolicy: {}
+              f:restartPolicy: {}
+              f:schedulerName: {}
+              f:securityContext:
+                .: {}
+                f:fsGroup: {}
+              f:terminationGracePeriodSeconds: {}
+              f:volumes:
+                .: {}
+                k:{"name":"config"}:
+                  .: {}
+                  f:configMap:
+                    .: {}
+                    f:defaultMode: {}
+                    f:name: {}
+                  f:name: {}
+                k:{"name":"exporters"}:
+                  .: {}
+                  f:emptyDir: {}
+                  f:name: {}
+          f:updateStrategy:
+            f:type: {}
+          f:volumeClaimTemplates: {}
+      manager: helm
+      operation: Update
+      time: '2023-08-30T01:06:21Z'
+    - apiVersion: apps/v1
+      fieldsType: FieldsV1
+      fieldsV1:
+        f:spec:
+          f:template:
+            f:spec:
+              f:containers:
+                k:{"name":"zeebe"}:
+                  f:env:
+                    k:{"name":"RESOURCE_AUTHORIZATIONS_ENABLED"}:
+                      .: {}
+                      f:name: {}
+                      f:value: {}
+      manager: agent
+      operation: Update
+      time: '2023-08-30T18:09:26Z'
+    - apiVersion: apps/v1
+      fieldsType: FieldsV1
+      fieldsV1:
+        f:status:
+          f:availableReplicas: {}
+          f:collisionCount: {}
+          f:currentReplicas: {}
+          f:currentRevision: {}
+          f:observedGeneration: {}
+          f:readyReplicas: {}
+          f:replicas: {}
+          f:updateRevision: {}
+          f:updatedReplicas: {}
+      manager: kube-controller-manager
+      operation: Update
+      subresource: status
+      time: '2023-08-30T18:12:42Z'
+  name: camunda-zeebe
+  namespace: camunda
+  resourceVersion: '103780167'
+  uid: afb3a099-cc85-473b-a9a3-a4fbc2ca5280
+spec:
+  podManagementPolicy: Parallel
+  replicas: 3
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: camunda-platform
+      app.kubernetes.io/component: zeebe-broker
+      app.kubernetes.io/instance: camunda
+      app.kubernetes.io/managed-by: Helm
+      app.kubernetes.io/name: zeebe
+      app.kubernetes.io/part-of: camunda-platform
+  serviceName: camunda-zeebe
+  template:
+    metadata:
+      annotations:
+        dapr.io/app-id: zeebe-broker
+        dapr.io/app-port: '9600'
+        dapr.io/enabled: 'true'
+        dapr.io/sidecar-cpu-limit: 200m
+        dapr.io/sidecar-memory-limit: 400Mi
+      creationTimestamp: null
+      labels:
+        app: camunda-platform
+        app.kubernetes.io/component: zeebe-broker
+        app.kubernetes.io/instance: camunda
+        app.kubernetes.io/managed-by: Helm
+        app.kubernetes.io/name: zeebe
+        app.kubernetes.io/part-of: camunda-platform
+        app.kubernetes.io/version: ob.8.2.12-aura-exporter5
+        helm.sh/chart: zeebe-8.2.12
+    spec:
+      affinity:
+        podAntiAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            - labelSelector:
+                matchExpressions:
+                  - key: app.kubernetes.io/component
+                    operator: In
+                    values:
+                      - zeebe-broker
+              topologyKey: kubernetes.io/hostname
+      containers:
+        - env:
+            - name: RESOURCE_AUTHORIZATIONS_ENABLED
+              value: 'false'
+            - name: LC_ALL
+              value: C.UTF-8
+            - name: K8S_NAME
+              valueFrom:
+                fieldRef:
+                  apiVersion: v1
+                  fieldPath: metadata.name
+            - name: K8S_SERVICE_NAME
+              value: camunda-zeebe
+            - name: K8S_NAMESPACE
+              valueFrom:
+                fieldRef:
+                  apiVersion: v1
+                  fieldPath: metadata.namespace
+            - name: ZEEBE_BROKER_NETWORK_ADVERTISEDHOST
+              value: $(K8S_NAME).$(K8S_SERVICE_NAME).$(K8S_NAMESPACE).svc
+            - name: ZEEBE_BROKER_CLUSTER_INITIALCONTACTPOINTS
+              value: >-
+                $(K8S_SERVICE_NAME)-0.$(K8S_SERVICE_NAME).$(K8S_NAMESPACE).svc:26502,
+                $(K8S_SERVICE_NAME)-1.$(K8S_SERVICE_NAME).$(K8S_NAMESPACE).svc:26502,
+                $(K8S_SERVICE_NAME)-2.$(K8S_SERVICE_NAME).$(K8S_NAMESPACE).svc:26502,
+            - name: ZEEBE_BROKER_CLUSTER_CLUSTERNAME
+              value: camunda-zeebe
+            - name: ZEEBE_LOG_LEVEL
+              value: info
+            - name: ZEEBE_BROKER_CLUSTER_PARTITIONSCOUNT
+              value: '3'
+            - name: ZEEBE_BROKER_CLUSTER_CLUSTERSIZE
+              value: '3'
+            - name: ZEEBE_BROKER_CLUSTER_REPLICATIONFACTOR
+              value: '3'
+            - name: ZEEBE_BROKER_THREADS_CPUTHREADCOUNT
+              value: '3'
+            - name: ZEEBE_BROKER_THREADS_IOTHREADCOUNT
+              value: '3'
+            - name: ZEEBE_BROKER_GATEWAY_ENABLE
+              value: 'false'
+            - name: ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_CLASSNAME
+              value: io.camunda.zeebe.exporter.ElasticsearchExporter
+            - name: ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_URL
+              value: http://elasticsearch-master:9200
+            - name: ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_INDEX_PREFIX
+              value: zeebe-record
+            - name: ZEEBE_BROKER_NETWORK_COMMANDAPI_PORT
+              value: '26501'
+            - name: ZEEBE_BROKER_NETWORK_INTERNALAPI_PORT
+              value: '26502'
+            - name: ZEEBE_BROKER_NETWORK_MONITORINGAPI_PORT
+              value: '9600'
+            - name: K8S_POD_NAME
+              valueFrom:
+                fieldRef:
+                  apiVersion: v1
+                  fieldPath: metadata.name
+            - name: JAVA_TOOL_OPTIONS
+              value: >-
+                -XX:+HeapDumpOnOutOfMemoryError
+                -XX:HeapDumpPath=/usr/local/zeebe/data
+                -XX:ErrorFile=/usr/local/zeebe/data/zeebe_error%p.log
+                -XX:+ExitOnOutOfMemoryError
+            - name: ZEEBE_BROKER_DATA_SNAPSHOTPERIOD
+              value: 5m
+            - name: ZEEBE_BROKER_DATA_DISKUSAGECOMMANDWATERMARK
+              value: '0.85'
+            - name: ZEEBE_BROKER_DATA_DISKUSAGEREPLICATIONWATERMARK
+              value: '0.87'
+            - name: ZEEBE_BROKER_GATEWAY_CLUSTER_REQUESTTIMEOUT
+              value: PT2S
+            - name: ZEEBE_GATEWAY_CLUSTER_REQUESTTIMEOUT
+              value: PT2S
+            - name: ZEEBE_AURA_DAPR_ADDRESS
+              value: http://localhost:3500
+            - name: ZEEBE_BROKER_EXPORTERS_AURA_CLASSNAME
+              value: io.zeebe.aura.exporter.AuraExporter
+            - name: ZEEBE_BROKER_EXPORTERS_AURA_JARPATH
+              value: >-
+                /usr/local/zeebe/exporters/zeebe-aura-exporter-1.0-jar-with-dependencies-dev-test-8.2.12.jar
+            - name: ZEEBE_AURA_DAPR_PUBSUB_NAME
+              value: zeebe-pubsub
+            - name: ZEEBE_AURA_DISABLED_VALUE_TYPES
+              value: JOB_BATCH
+            - name: ZEEBE_AURA_DISABLED_RECORD_TYPES
+              value: COMMAND
+            - name: ZEEBE_AURA_REQUEST_TOPIC
+              value: REQUEST-EXPORTER
+            - name: ZEEBE_AURA_TRANSACTION_TOPIC
+              value: TRANSACTION-EXPORTER
+            - name: ZEEBE_AURA_DAPR_TOPIC
+              value: DAPR-EXPORTER
+            - name: ZEEBE_AURA_CORRELATION_ID_KEY
+              value: CorrelationId
+            - name: ZEEBE_AURA_ACTIVITY_ID_KEY
+              value: ActivityId
+            - name: ZEEBE_BROKER_EXPORTERS_ELASTICSEARCH_ARGS_BULK_SIZE
+              value: '1000'
+          image: registry.dgpays.com/devops/camunda/zeebe:ob.8.2.12-aura-exporter5
+          imagePullPolicy: IfNotPresent
+          name: zeebe
+          ports:
+            - containerPort: 9600
+              name: http
+              protocol: TCP
+            - containerPort: 26501
+              name: command
+              protocol: TCP
+            - containerPort: 26502
+              name: internal
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 5
+            httpGet:
+              path: /ready
+              port: 9600
+              scheme: HTTP
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            successThreshold: 1
+            timeoutSeconds: 1
+          resources:
+            limits:
+              cpu: 960m
+              memory: 1920Mi
+            requests:
+              cpu: 800m
+              memory: 1200Mi
+          terminationMessagePath: /dev/termination-log
+          terminationMessagePolicy: File
+          volumeMounts:
+            - mountPath: /usr/local/bin/startup.sh
+              name: config
+              subPath: startup.sh
+            - mountPath: /usr/local/zeebe/data
+              name: data
+            - mountPath: /exporters
+              name: exporters
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext:
+        fsGroup: 1000
+      terminationGracePeriodSeconds: 30
+      volumes:
+        - configMap:
+            defaultMode: 492
+            name: camunda-zeebe
+          name: config
+        - emptyDir: {}
+          name: exporters
+  updateStrategy:
+    type: RollingUpdate
+  volumeClaimTemplates:
+    - apiVersion: v1
+      kind: PersistentVolumeClaim
+      metadata:
+        creationTimestamp: null
+        name: data
+      spec:
+        accessModes:
+          - ReadWriteOnce
+        resources:
+          requests:
+            storage: 32Gi
+        volumeMode: Filesystem
+      status:
+        phase: Pending
+status:
+  availableReplicas: 3
+  collisionCount: 0
+  currentReplicas: 3
+  currentRevision: camunda-zeebe-5fcc76d9c5
+  observedGeneration: 2
+  readyReplicas: 3
+  replicas: 3
+  updateRevision: camunda-zeebe-5fcc76d9c5
+  updatedReplicas: 3

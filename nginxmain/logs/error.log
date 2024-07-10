@@ -1,0 +1,2003 @@
+2024/05/16 07:52:13 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:52:13 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:52:13 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:52:13 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:52:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:52:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:52:13 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:52:13 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:52:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:52:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:52:13 [notice] 1#1: start worker processes
+2024/05/16 07:52:13 [notice] 1#1: start worker processes
+2024/05/16 07:52:13 [notice] 1#1: start worker process 29
+2024/05/16 07:52:13 [notice] 1#1: start worker process 29
+2024/05/16 07:56:04 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:56:04 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:56:04 [notice] 29#29: gracefully shutting down
+2024/05/16 07:56:04 [notice] 29#29: gracefully shutting down
+2024/05/16 07:56:04 [notice] 29#29: exiting
+2024/05/16 07:56:04 [notice] 29#29: exiting
+2024/05/16 07:56:04 [notice] 29#29: exit
+2024/05/16 07:56:04 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 07:56:04 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 07:56:04 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 07:56:04 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 07:56:04 [notice] 1#1: exit
+2024/05/16 07:56:04 [notice] 1#1: exit
+2024/05/16 07:56:34 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:56:34 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:56:34 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:56:34 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:56:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:56:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:56:34 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:56:34 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:56:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:56:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:56:34 [notice] 1#1: start worker processes
+2024/05/16 07:56:34 [notice] 1#1: start worker processes
+2024/05/16 07:56:34 [notice] 1#1: start worker process 29
+2024/05/16 07:56:34 [notice] 1#1: start worker process 29
+2024/05/16 07:57:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:57:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:57:45 [notice] 29#29: gracefully shutting down
+2024/05/16 07:57:45 [notice] 29#29: gracefully shutting down
+2024/05/16 07:57:45 [notice] 29#29: exiting
+2024/05/16 07:57:45 [notice] 29#29: exiting
+2024/05/16 07:57:45 [notice] 29#29: exit
+2024/05/16 07:57:45 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 07:57:45 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 07:57:45 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 07:57:45 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 07:57:45 [notice] 1#1: exit
+2024/05/16 07:57:45 [notice] 1#1: exit
+2024/05/16 07:57:45 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:57:45 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:57:45 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:57:45 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:57:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:57:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:57:45 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:57:45 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:57:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:57:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:57:45 [notice] 1#1: start worker processes
+2024/05/16 07:57:45 [notice] 1#1: start worker processes
+2024/05/16 07:57:45 [notice] 1#1: start worker process 22
+2024/05/16 07:57:45 [notice] 1#1: start worker process 22
+2024/05/16 07:57:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:57:49 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 07:57:49 [notice] 22#22: gracefully shutting down
+2024/05/16 07:57:49 [notice] 22#22: gracefully shutting down
+2024/05/16 07:57:49 [notice] 22#22: exiting
+2024/05/16 07:57:49 [notice] 22#22: exiting
+2024/05/16 07:57:49 [notice] 22#22: exit
+2024/05/16 07:57:50 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/05/16 07:57:50 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/05/16 07:57:50 [notice] 1#1: worker process 22 exited with code 0
+2024/05/16 07:57:50 [notice] 1#1: worker process 22 exited with code 0
+2024/05/16 07:57:50 [notice] 1#1: exit
+2024/05/16 07:57:50 [notice] 1#1: exit
+2024/05/16 07:58:09 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:58:09 [notice] 1#1: using the "epoll" event method
+2024/05/16 07:58:09 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:58:09 [notice] 1#1: nginx/1.25.5
+2024/05/16 07:58:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:58:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 07:58:09 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:58:09 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 07:58:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:58:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 07:58:09 [notice] 1#1: start worker processes
+2024/05/16 07:58:09 [notice] 1#1: start worker processes
+2024/05/16 07:58:09 [notice] 1#1: start worker process 29
+2024/05/16 07:58:09 [notice] 1#1: start worker process 29
+2024/05/16 07:58:28 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/05/16 07:58:28 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/05/16 07:58:28 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/05/16 07:58:28 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/05/16 07:58:31 [info] 29#29: *2 client closed connection while waiting for request, client: 192.168.65.1, server: 0.0.0.0:3000
+2024/05/16 07:58:31 [info] 29#29: *1 client 192.168.65.1 closed keepalive connection
+2024/05/16 08:01:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 08:01:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/05/16 08:01:10 [notice] 29#29: gracefully shutting down
+2024/05/16 08:01:10 [notice] 29#29: gracefully shutting down
+2024/05/16 08:01:10 [notice] 29#29: exiting
+2024/05/16 08:01:10 [notice] 29#29: exiting
+2024/05/16 08:01:10 [notice] 29#29: exit
+2024/05/16 08:01:10 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 08:01:10 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/05/16 08:01:10 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 08:01:10 [notice] 1#1: worker process 29 exited with code 0
+2024/05/16 08:01:10 [notice] 1#1: exit
+2024/05/16 08:01:10 [notice] 1#1: exit
+2024/05/16 08:14:55 [notice] 1#1: using the "epoll" event method
+2024/05/16 08:14:55 [notice] 1#1: using the "epoll" event method
+2024/05/16 08:14:55 [notice] 1#1: nginx/1.25.5
+2024/05/16 08:14:55 [notice] 1#1: nginx/1.25.5
+2024/05/16 08:14:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 08:14:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/05/16 08:14:55 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 08:14:55 [notice] 1#1: OS: Linux 6.4.16-linuxkit
+2024/05/16 08:14:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 08:14:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/05/16 08:14:55 [notice] 1#1: start worker processes
+2024/05/16 08:14:55 [notice] 1#1: start worker processes
+2024/05/16 08:14:55 [notice] 1#1: start worker process 22
+2024/05/16 08:14:55 [notice] 1#1: start worker process 22
+2024/05/16 08:22:13 [error] 22#22: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.12:8008", referrer: "http://192.168.0.12:8008/"
+2024/05/16 08:22:13 [error] 22#22: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.12:8008", referrer: "http://192.168.0.12:8008/"
+2024/05/16 08:22:13 [error] 22#22: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.12:8008", referrer: "http://192.168.0.12:8008/"
+2024/05/16 08:22:13 [error] 22#22: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.65.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.12:8008", referrer: "http://192.168.0.12:8008/"
+2024/05/16 08:22:15 [info] 22#22: *2 client closed connection while waiting for request, client: 192.168.65.1, server: 0.0.0.0:3000
+2024/05/16 08:22:15 [info] 22#22: *1 client 192.168.65.1 closed keepalive connection
+2024/05/16 08:27:40 [info] 22#22: *3 client 192.168.65.1 closed keepalive connection
+2024/07/01 09:40:06 [notice] 1#1: using the "epoll" event method
+2024/07/01 09:40:06 [notice] 1#1: using the "epoll" event method
+2024/07/01 09:40:06 [notice] 1#1: nginx/1.27.0
+2024/07/01 09:40:06 [notice] 1#1: nginx/1.27.0
+2024/07/01 09:40:06 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/01 09:40:06 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/01 09:40:06 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/01 09:40:06 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/01 09:40:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/01 09:40:06 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/01 09:40:06 [notice] 1#1: start worker processes
+2024/07/01 09:40:06 [notice] 1#1: start worker processes
+2024/07/01 09:40:06 [notice] 1#1: start worker process 29
+2024/07/01 09:40:06 [notice] 1#1: start worker process 29
+2024/07/01 09:44:43 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/07/01 09:44:43 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/07/01 09:44:43 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/07/01 09:44:43 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8008", referrer: "http://localhost:8008/"
+2024/07/01 09:45:43 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.21.0.1, server: 0.0.0.0:3000
+2024/07/01 09:46:07 [info] 29#29: *3 client 172.21.0.1 closed keepalive connection
+2024/07/01 09:47:51 [info] 29#29: *4 client 172.21.0.1 closed keepalive connection
+2024/07/01 09:49:44 [info] 29#29: *6 client 172.21.0.1 closed keepalive connection
+2024/07/01 09:50:14 [info] 29#29: *5 client 172.21.0.1 closed keepalive connection
+2024/07/01 10:08:29 [info] 29#29: *7 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:37:54 [info] 29#29: *8 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:40:34 [info] 29#29: *9 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:42:51 [info] 29#29: *10 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:44:52 [info] 29#29: *11 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:48:32 [info] 29#29: *12 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:49:52 [info] 29#29: *13 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:50:14 [info] 29#29: *14 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:50:54 [info] 29#29: *15 client 172.21.0.1 closed keepalive connection
+2024/07/04 13:59:10 [info] 29#29: *16 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:02:23 [info] 29#29: *17 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:12:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:12:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:12:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:12:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:13:02 [info] 29#29: *18 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:13:17 [error] 29#29: *19 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:13:17 [error] 29#29: *19 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:13:17 [error] 29#29: *19 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:13:17 [error] 29#29: *19 open() "/etc/nginx/sample-app/a/b/c" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /a/b/c HTTP/1.1", host: "192.168.1.9:8008"
+2024/07/04 14:14:17 [info] 29#29: *19 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:18:12 [info] 29#29: *20 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:18:53 [info] 29#29: *21 client 172.21.0.1 closed keepalive connection
+2024/07/04 14:33:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/04 14:33:11 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/04 14:33:11 [notice] 29#29: gracefully shutting down
+2024/07/04 14:33:11 [notice] 29#29: gracefully shutting down
+2024/07/04 14:33:11 [notice] 29#29: exiting
+2024/07/04 14:33:11 [notice] 29#29: exiting
+2024/07/04 14:33:11 [notice] 29#29: exit
+2024/07/04 14:33:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/04 14:33:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/04 14:33:12 [notice] 1#1: worker process 29 exited with code 0
+2024/07/04 14:33:12 [notice] 1#1: worker process 29 exited with code 0
+2024/07/04 14:33:12 [notice] 1#1: exit
+2024/07/04 14:33:12 [notice] 1#1: exit
+2024/07/04 14:33:57 [notice] 1#1: using the "epoll" event method
+2024/07/04 14:33:57 [notice] 1#1: using the "epoll" event method
+2024/07/04 14:33:57 [notice] 1#1: nginx/1.27.0
+2024/07/04 14:33:57 [notice] 1#1: nginx/1.27.0
+2024/07/04 14:33:57 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/04 14:33:57 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/04 14:33:57 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/04 14:33:57 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/04 14:33:57 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/04 14:33:57 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/04 14:33:57 [notice] 1#1: start worker processes
+2024/07/04 14:33:57 [notice] 1#1: start worker processes
+2024/07/04 14:33:57 [notice] 1#1: start worker process 29
+2024/07/04 14:33:57 [notice] 1#1: start worker process 29
+2024/07/04 14:36:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/04 14:36:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/04 14:36:01 [notice] 29#29: gracefully shutting down
+2024/07/04 14:36:01 [notice] 29#29: gracefully shutting down
+2024/07/04 14:36:01 [notice] 29#29: exiting
+2024/07/04 14:36:01 [notice] 29#29: exiting
+2024/07/04 14:36:01 [notice] 29#29: exit
+2024/07/04 14:36:01 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/04 14:36:01 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/04 14:36:01 [notice] 1#1: worker process 29 exited with code 0
+2024/07/04 14:36:01 [notice] 1#1: worker process 29 exited with code 0
+2024/07/04 14:36:01 [notice] 1#1: exit
+2024/07/04 14:36:01 [notice] 1#1: exit
+2024/07/04 14:36:33 [notice] 1#1: using the "epoll" event method
+2024/07/04 14:36:33 [notice] 1#1: using the "epoll" event method
+2024/07/04 14:36:33 [notice] 1#1: nginx/1.27.0
+2024/07/04 14:36:33 [notice] 1#1: nginx/1.27.0
+2024/07/04 14:36:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/04 14:36:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/04 14:36:33 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/04 14:36:33 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/04 14:36:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/04 14:36:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/04 14:36:33 [notice] 1#1: start worker processes
+2024/07/04 14:36:33 [notice] 1#1: start worker processes
+2024/07/04 14:36:33 [notice] 1#1: start worker process 29
+2024/07/04 14:36:33 [notice] 1#1: start worker process 29
+2024/07/05 05:59:36 [notice] 1#1: using the "epoll" event method
+2024/07/05 05:59:36 [notice] 1#1: using the "epoll" event method
+2024/07/05 05:59:36 [notice] 1#1: nginx/1.27.0
+2024/07/05 05:59:36 [notice] 1#1: nginx/1.27.0
+2024/07/05 05:59:36 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 05:59:36 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 05:59:36 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 05:59:36 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 05:59:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 05:59:36 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 05:59:36 [notice] 1#1: start worker processes
+2024/07/05 05:59:36 [notice] 1#1: start worker processes
+2024/07/05 05:59:36 [notice] 1#1: start worker process 29
+2024/07/05 05:59:36 [notice] 1#1: start worker process 29
+2024/07/05 06:00:23 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.27.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9001", referrer: "http://localhost:9001/"
+2024/07/05 06:00:23 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.27.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9001", referrer: "http://localhost:9001/"
+2024/07/05 06:00:23 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.27.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9001", referrer: "http://localhost:9001/"
+2024/07/05 06:00:23 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.27.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9001", referrer: "http://localhost:9001/"
+2024/07/05 06:01:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 06:01:16 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 06:01:16 [notice] 29#29: gracefully shutting down
+2024/07/05 06:01:16 [notice] 29#29: gracefully shutting down
+2024/07/05 06:01:22 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.27.0.1, server: 0.0.0.0:3000
+2024/07/05 06:01:22 [notice] 29#29: exiting
+2024/07/05 06:01:22 [notice] 29#29: exiting
+2024/07/05 06:01:22 [notice] 29#29: exit
+2024/07/05 06:01:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 06:01:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 06:01:23 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 06:01:23 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 06:01:23 [notice] 1#1: exit
+2024/07/05 06:01:23 [notice] 1#1: exit
+2024/07/05 06:01:25 [notice] 1#1: using the "epoll" event method
+2024/07/05 06:01:25 [notice] 1#1: using the "epoll" event method
+2024/07/05 06:01:25 [notice] 1#1: nginx/1.27.0
+2024/07/05 06:01:25 [notice] 1#1: nginx/1.27.0
+2024/07/05 06:01:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 06:01:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 06:01:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 06:01:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 06:01:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 06:01:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 06:01:25 [notice] 1#1: start worker processes
+2024/07/05 06:01:25 [notice] 1#1: start worker processes
+2024/07/05 06:01:25 [notice] 1#1: start worker process 29
+2024/07/05 06:01:25 [notice] 1#1: start worker process 29
+2024/07/05 06:02:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 06:02:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 06:02:00 [notice] 29#29: gracefully shutting down
+2024/07/05 06:02:00 [notice] 29#29: gracefully shutting down
+2024/07/05 06:02:00 [notice] 29#29: exiting
+2024/07/05 06:02:00 [notice] 29#29: exiting
+2024/07/05 06:02:00 [notice] 29#29: exit
+2024/07/05 06:02:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 06:02:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 06:02:00 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 06:02:00 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 06:02:00 [notice] 1#1: exit
+2024/07/05 06:02:00 [notice] 1#1: exit
+2024/07/05 06:02:24 [notice] 1#1: using the "epoll" event method
+2024/07/05 06:02:24 [notice] 1#1: using the "epoll" event method
+2024/07/05 06:02:24 [notice] 1#1: nginx/1.27.0
+2024/07/05 06:02:24 [notice] 1#1: nginx/1.27.0
+2024/07/05 06:02:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 06:02:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 06:02:24 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 06:02:24 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 06:02:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 06:02:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 06:02:24 [notice] 1#1: start worker processes
+2024/07/05 06:02:24 [notice] 1#1: start worker processes
+2024/07/05 06:02:24 [notice] 1#1: start worker process 29
+2024/07/05 06:02:24 [notice] 1#1: start worker process 29
+2024/07/05 06:02:38 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/05 06:02:38 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/05 06:02:38 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/05 06:02:38 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/05 06:03:38 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:05:38 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:05:38 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:05:38 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:05:38 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:05:52 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:05:52 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:05:52 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:05:52 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:06:37 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:09:10 [error] 29#29: *5 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:09:10 [error] 29#29: *5 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:09:10 [error] 29#29: *5 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:09:10 [error] 29#29: *5 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri=null%2F%23%2Fa%2Fb%2Fc"
+2024/07/05 06:10:10 [info] 29#29: *6 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/xxxx/a/b/c" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET //xxxx/a/b/c HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/xxxx/a/b/c" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET //xxxx/a/b/c HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/xxxx/a/b/c" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET //xxxx/a/b/c HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/xxxx/a/b/c" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET //xxxx/a/b/c HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088//xxxx/a/b/c"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088//xxxx/a/b/c"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088//xxxx/a/b/c"
+2024/07/05 06:10:26 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088//xxxx/a/b/c"
+2024/07/05 06:10:58 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:10:58 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:10:58 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:10:58 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:00 [error] 29#29: *7 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:11:26 [info] 29#29: *8 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:12:25 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:25 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:25 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:25 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:43 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:43 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:43 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:43 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:52 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:52 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:52 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:52 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:12:53 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:13:05 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:13:05 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:13:05 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:13:05 [error] 29#29: *9 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 06:13:25 [info] 29#29: *10 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:15:00 [info] 29#29: *11 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:16:15 [info] 29#29: *13 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:20:07 [info] 29#29: *15 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 06:54:09 [info] 29#29: *17 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:16:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:02 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:33 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:33 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:33 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:16:33 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:17:02 [info] 29#29: *19 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:17:51 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:17:51 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:17:51 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:17:51 [error] 29#29: *18 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/?redirect_uri_part=%23%2Fa%2Fb%2Fc"
+2024/07/05 07:18:06 [info] 29#29: *20 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:19:30 [info] 29#29: *21 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:25:52 [info] 29#29: *23 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:30:51 [info] 29#29: *25 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:57:04 [info] 29#29: *26 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:57:04 [info] 29#29: *27 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 07:59:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 07:59:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 07:59:41 [notice] 29#29: gracefully shutting down
+2024/07/05 07:59:41 [notice] 29#29: gracefully shutting down
+2024/07/05 07:59:41 [notice] 29#29: exiting
+2024/07/05 07:59:41 [notice] 29#29: exiting
+2024/07/05 07:59:41 [notice] 29#29: exit
+2024/07/05 07:59:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 07:59:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 07:59:41 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 07:59:41 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 07:59:41 [notice] 1#1: exit
+2024/07/05 07:59:41 [notice] 1#1: exit
+2024/07/05 08:00:07 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:00:07 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:00:07 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:00:07 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:00:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:00:07 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:00:07 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:00:07 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:00:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:00:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:00:07 [notice] 1#1: start worker processes
+2024/07/05 08:00:07 [notice] 1#1: start worker processes
+2024/07/05 08:00:07 [notice] 1#1: start worker process 29
+2024/07/05 08:00:07 [notice] 1#1: start worker process 29
+2024/07/05 08:18:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:18:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:18:50 [notice] 29#29: gracefully shutting down
+2024/07/05 08:18:50 [notice] 29#29: gracefully shutting down
+2024/07/05 08:18:50 [notice] 29#29: exiting
+2024/07/05 08:18:50 [notice] 29#29: exiting
+2024/07/05 08:18:50 [notice] 29#29: exit
+2024/07/05 08:18:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:18:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:18:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:18:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:18:50 [notice] 1#1: exit
+2024/07/05 08:18:50 [notice] 1#1: exit
+2024/07/05 08:19:12 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:19:12 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:19:12 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:19:12 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:19:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:19:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:19:12 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:19:12 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:19:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:19:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:19:12 [notice] 1#1: start worker processes
+2024/07/05 08:19:12 [notice] 1#1: start worker processes
+2024/07/05 08:19:12 [notice] 1#1: start worker process 29
+2024/07/05 08:19:12 [notice] 1#1: start worker process 29
+2024/07/05 08:25:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:25:45 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:25:45 [notice] 29#29: gracefully shutting down
+2024/07/05 08:25:45 [notice] 29#29: gracefully shutting down
+2024/07/05 08:25:45 [notice] 29#29: exiting
+2024/07/05 08:25:45 [notice] 29#29: exiting
+2024/07/05 08:25:45 [notice] 29#29: exit
+2024/07/05 08:25:45 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:25:45 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:25:45 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:25:45 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:25:45 [notice] 1#1: exit
+2024/07/05 08:25:45 [notice] 1#1: exit
+2024/07/05 08:26:08 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:26:08 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:26:08 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:26:08 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:26:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:26:08 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:26:08 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:26:08 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:26:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:26:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:26:08 [notice] 1#1: start worker processes
+2024/07/05 08:26:08 [notice] 1#1: start worker processes
+2024/07/05 08:26:08 [notice] 1#1: start worker process 29
+2024/07/05 08:26:08 [notice] 1#1: start worker process 29
+2024/07/05 08:55:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:55:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:55:20 [notice] 29#29: gracefully shutting down
+2024/07/05 08:55:20 [notice] 29#29: gracefully shutting down
+2024/07/05 08:55:20 [notice] 29#29: exiting
+2024/07/05 08:55:20 [notice] 29#29: exiting
+2024/07/05 08:55:20 [notice] 29#29: exit
+2024/07/05 08:55:20 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:55:20 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:55:20 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:55:20 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:55:20 [notice] 1#1: exit
+2024/07/05 08:55:20 [notice] 1#1: exit
+2024/07/05 08:56:25 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:56:25 [notice] 1#1: using the "epoll" event method
+2024/07/05 08:56:25 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:56:25 [notice] 1#1: nginx/1.27.0
+2024/07/05 08:56:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:56:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 08:56:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:56:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 08:56:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:56:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 08:56:25 [notice] 1#1: start worker processes
+2024/07/05 08:56:25 [notice] 1#1: start worker processes
+2024/07/05 08:56:25 [notice] 1#1: start worker process 29
+2024/07/05 08:56:25 [notice] 1#1: start worker process 29
+2024/07/05 08:58:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:58:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 08:58:40 [notice] 29#29: gracefully shutting down
+2024/07/05 08:58:40 [notice] 29#29: gracefully shutting down
+2024/07/05 08:58:40 [notice] 29#29: exiting
+2024/07/05 08:58:40 [notice] 29#29: exiting
+2024/07/05 08:58:40 [notice] 29#29: exit
+2024/07/05 08:58:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:58:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 08:58:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:58:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 08:58:40 [notice] 1#1: exit
+2024/07/05 08:58:40 [notice] 1#1: exit
+2024/07/05 09:00:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:00:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:00:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:00:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:00:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:00:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:00:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:00:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:00:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:00:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:00:51 [notice] 1#1: start worker processes
+2024/07/05 09:00:51 [notice] 1#1: start worker processes
+2024/07/05 09:00:51 [notice] 1#1: start worker process 29
+2024/07/05 09:00:51 [notice] 1#1: start worker process 29
+2024/07/05 09:05:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:05:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:05:24 [notice] 29#29: gracefully shutting down
+2024/07/05 09:05:24 [notice] 29#29: gracefully shutting down
+2024/07/05 09:05:24 [notice] 29#29: exiting
+2024/07/05 09:05:24 [notice] 29#29: exiting
+2024/07/05 09:05:24 [notice] 29#29: exit
+2024/07/05 09:05:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:05:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:05:24 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:05:24 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:05:24 [notice] 1#1: exit
+2024/07/05 09:05:24 [notice] 1#1: exit
+2024/07/05 09:05:50 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:05:50 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:05:50 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:05:50 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:05:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:05:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:05:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:05:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:05:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:05:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:05:50 [notice] 1#1: start worker processes
+2024/07/05 09:05:50 [notice] 1#1: start worker processes
+2024/07/05 09:05:50 [notice] 1#1: start worker process 29
+2024/07/05 09:05:50 [notice] 1#1: start worker process 29
+2024/07/05 09:08:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:08:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:08:07 [notice] 29#29: gracefully shutting down
+2024/07/05 09:08:07 [notice] 29#29: gracefully shutting down
+2024/07/05 09:08:07 [notice] 29#29: exiting
+2024/07/05 09:08:07 [notice] 29#29: exiting
+2024/07/05 09:08:07 [notice] 29#29: exit
+2024/07/05 09:08:07 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:08:07 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:08:07 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:08:07 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:08:07 [notice] 1#1: exit
+2024/07/05 09:08:07 [notice] 1#1: exit
+2024/07/05 09:08:28 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:08:28 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:08:28 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:08:28 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:08:28 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:08:28 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:08:28 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:08:28 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:08:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:08:28 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:08:28 [notice] 1#1: start worker processes
+2024/07/05 09:08:28 [notice] 1#1: start worker processes
+2024/07/05 09:08:28 [notice] 1#1: start worker process 29
+2024/07/05 09:08:28 [notice] 1#1: start worker process 29
+2024/07/05 09:14:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:14:39 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:14:39 [notice] 29#29: gracefully shutting down
+2024/07/05 09:14:39 [notice] 29#29: gracefully shutting down
+2024/07/05 09:14:39 [notice] 29#29: exiting
+2024/07/05 09:14:39 [notice] 29#29: exiting
+2024/07/05 09:14:39 [notice] 29#29: exit
+2024/07/05 09:14:39 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:14:39 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:14:39 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:14:39 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:14:39 [notice] 1#1: exit
+2024/07/05 09:14:39 [notice] 1#1: exit
+2024/07/05 09:15:02 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:15:02 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:15:02 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:15:02 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:15:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:15:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:15:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:15:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:15:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:15:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:15:02 [notice] 1#1: start worker processes
+2024/07/05 09:15:02 [notice] 1#1: start worker processes
+2024/07/05 09:15:02 [notice] 1#1: start worker process 29
+2024/07/05 09:15:02 [notice] 1#1: start worker process 29
+2024/07/05 09:22:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:22:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:22:37 [notice] 29#29: gracefully shutting down
+2024/07/05 09:22:37 [notice] 29#29: gracefully shutting down
+2024/07/05 09:22:37 [notice] 29#29: exiting
+2024/07/05 09:22:37 [notice] 29#29: exiting
+2024/07/05 09:22:37 [notice] 29#29: exit
+2024/07/05 09:22:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:22:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:22:37 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:22:37 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:22:37 [notice] 1#1: exit
+2024/07/05 09:22:37 [notice] 1#1: exit
+2024/07/05 09:23:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:23:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:23:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:23:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:23:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:23:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:23:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:23:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:23:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:23:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:23:51 [notice] 1#1: start worker processes
+2024/07/05 09:23:51 [notice] 1#1: start worker processes
+2024/07/05 09:23:51 [notice] 1#1: start worker process 29
+2024/07/05 09:23:51 [notice] 1#1: start worker process 29
+2024/07/05 09:30:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:30:43 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:30:43 [notice] 29#29: gracefully shutting down
+2024/07/05 09:30:43 [notice] 29#29: gracefully shutting down
+2024/07/05 09:30:43 [notice] 29#29: exiting
+2024/07/05 09:30:43 [notice] 29#29: exiting
+2024/07/05 09:30:43 [notice] 29#29: exit
+2024/07/05 09:30:43 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:30:43 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 09:30:43 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:30:43 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 09:30:43 [notice] 1#1: exit
+2024/07/05 09:30:43 [notice] 1#1: exit
+2024/07/05 09:31:17 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:31:17 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:31:17 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:31:17 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:31:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:31:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:31:17 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:31:17 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:31:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:31:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:31:17 [notice] 1#1: start worker processes
+2024/07/05 09:31:17 [notice] 1#1: start worker processes
+2024/07/05 09:31:17 [notice] 1#1: start worker process 28
+2024/07/05 09:31:17 [notice] 1#1: start worker process 28
+2024/07/05 09:33:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:33:58 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 09:33:58 [notice] 28#28: gracefully shutting down
+2024/07/05 09:33:58 [notice] 28#28: gracefully shutting down
+2024/07/05 09:33:58 [notice] 28#28: exiting
+2024/07/05 09:33:58 [notice] 28#28: exiting
+2024/07/05 09:33:58 [notice] 28#28: exit
+2024/07/05 09:33:58 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/07/05 09:33:58 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2024/07/05 09:33:58 [notice] 1#1: worker process 28 exited with code 0
+2024/07/05 09:33:58 [notice] 1#1: worker process 28 exited with code 0
+2024/07/05 09:33:58 [notice] 1#1: exit
+2024/07/05 09:33:58 [notice] 1#1: exit
+2024/07/05 09:34:20 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:34:20 [notice] 1#1: using the "epoll" event method
+2024/07/05 09:34:20 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:34:20 [notice] 1#1: nginx/1.27.0
+2024/07/05 09:34:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:34:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 09:34:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:34:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 09:34:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:34:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 09:34:20 [notice] 1#1: start worker processes
+2024/07/05 09:34:20 [notice] 1#1: start worker processes
+2024/07/05 09:34:20 [notice] 1#1: start worker process 29
+2024/07/05 09:34:20 [notice] 1#1: start worker process 29
+2024/07/05 13:31:32 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.24.0.1, server: 0.0.0.0:3000
+2024/07/05 13:32:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 13:32:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 13:32:10 [notice] 29#29: gracefully shutting down
+2024/07/05 13:32:10 [notice] 29#29: gracefully shutting down
+2024/07/05 13:32:44 [notice] 1#1: using the "epoll" event method
+2024/07/05 13:32:44 [notice] 1#1: using the "epoll" event method
+2024/07/05 13:32:44 [notice] 1#1: nginx/1.27.0
+2024/07/05 13:32:44 [notice] 1#1: nginx/1.27.0
+2024/07/05 13:32:44 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 13:32:44 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 13:32:44 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 13:32:44 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 13:32:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 13:32:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 13:32:44 [notice] 1#1: start worker processes
+2024/07/05 13:32:44 [notice] 1#1: start worker processes
+2024/07/05 13:32:44 [notice] 1#1: start worker process 29
+2024/07/05 13:32:44 [notice] 1#1: start worker process 29
+2024/07/05 13:40:01 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.26.0.1, server: 0.0.0.0:3000
+2024/07/05 14:02:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:02:15 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:02:15 [notice] 29#29: gracefully shutting down
+2024/07/05 14:02:15 [notice] 29#29: gracefully shutting down
+2024/07/05 14:02:15 [notice] 29#29: exiting
+2024/07/05 14:02:15 [notice] 29#29: exiting
+2024/07/05 14:02:15 [notice] 29#29: exit
+2024/07/05 14:02:15 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:02:15 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:02:15 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:02:15 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:02:15 [notice] 1#1: exit
+2024/07/05 14:02:15 [notice] 1#1: exit
+2024/07/05 14:05:03 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:05:03 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:05:03 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:05:03 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:05:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:05:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:05:03 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:05:03 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:05:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:05:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:05:03 [notice] 1#1: start worker processes
+2024/07/05 14:05:03 [notice] 1#1: start worker processes
+2024/07/05 14:05:03 [notice] 1#1: start worker process 29
+2024/07/05 14:05:03 [notice] 1#1: start worker process 29
+2024/07/05 14:06:39 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.28.0.1, server: 0.0.0.0:3000
+2024/07/05 14:07:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:07:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:07:42 [notice] 29#29: gracefully shutting down
+2024/07/05 14:07:42 [notice] 29#29: gracefully shutting down
+2024/07/05 14:07:42 [notice] 29#29: exiting
+2024/07/05 14:07:42 [notice] 29#29: exiting
+2024/07/05 14:07:42 [notice] 29#29: exit
+2024/07/05 14:07:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:07:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:07:42 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:07:42 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:07:42 [notice] 1#1: exit
+2024/07/05 14:07:42 [notice] 1#1: exit
+2024/07/05 14:08:16 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:08:16 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:08:16 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:08:16 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:08:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:08:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:08:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:08:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:08:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:08:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:08:16 [notice] 1#1: start worker processes
+2024/07/05 14:08:16 [notice] 1#1: start worker processes
+2024/07/05 14:08:16 [notice] 1#1: start worker process 29
+2024/07/05 14:08:16 [notice] 1#1: start worker process 29
+2024/07/05 14:09:54 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.29.0.1, server: 0.0.0.0:3000
+2024/07/05 14:13:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:13:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:13:25 [notice] 29#29: gracefully shutting down
+2024/07/05 14:13:25 [notice] 29#29: gracefully shutting down
+2024/07/05 14:13:25 [notice] 29#29: exiting
+2024/07/05 14:13:25 [notice] 29#29: exiting
+2024/07/05 14:13:25 [notice] 29#29: exit
+2024/07/05 14:13:25 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:13:25 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/05 14:13:25 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:13:25 [notice] 1#1: worker process 29 exited with code 0
+2024/07/05 14:13:25 [notice] 1#1: exit
+2024/07/05 14:13:25 [notice] 1#1: exit
+2024/07/05 14:15:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:15:51 [notice] 1#1: using the "epoll" event method
+2024/07/05 14:15:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:15:51 [notice] 1#1: nginx/1.27.0
+2024/07/05 14:15:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:15:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/05 14:15:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:15:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/05 14:15:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:15:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/05 14:15:51 [notice] 1#1: start worker processes
+2024/07/05 14:15:51 [notice] 1#1: start worker processes
+2024/07/05 14:15:51 [notice] 1#1: start worker process 29
+2024/07/05 14:15:51 [notice] 1#1: start worker process 29
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/logout" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /logout HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/logout" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /logout HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/logout" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /logout HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/logout" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /logout HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/logout"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/logout"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/logout"
+2024/07/05 14:16:33 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/logout"
+2024/07/05 14:17:05 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.0.1, server: 0.0.0.0:3000
+2024/07/05 14:18:16 [info] 29#29: *3 client timed out (110: Connection timed out) while waiting for request, client: 192.168.0.1, server: 0.0.0.0:3000
+2024/07/05 14:18:57 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:18:57 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:18:57 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:18:57 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:19:28 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:19:28 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:19:28 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:19:28 [error] 29#29: *4 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/05 14:19:57 [info] 29#29: *5 client timed out (110: Connection timed out) while waiting for request, client: 192.168.0.1, server: 0.0.0.0:3000
+2024/07/05 14:24:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:24:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/05 14:24:52 [notice] 29#29: gracefully shutting down
+2024/07/05 14:24:52 [notice] 29#29: gracefully shutting down
+2024/07/08 05:44:49 [notice] 1#1: using the "epoll" event method
+2024/07/08 05:44:49 [notice] 1#1: using the "epoll" event method
+2024/07/08 05:44:49 [notice] 1#1: nginx/1.27.0
+2024/07/08 05:44:49 [notice] 1#1: nginx/1.27.0
+2024/07/08 05:44:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 05:44:49 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 05:44:49 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 05:44:49 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 05:44:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 05:44:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 05:44:49 [notice] 1#1: start worker processes
+2024/07/08 05:44:49 [notice] 1#1: start worker processes
+2024/07/08 05:44:49 [notice] 1#1: start worker process 29
+2024/07/08 05:44:49 [notice] 1#1: start worker process 29
+2024/07/08 06:44:18 [error] 29#29: *2 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:44:18 [error] 29#29: *2 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:44:18 [error] 29#29: *2 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:44:18 [error] 29#29: *2 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:44:33 [info] 29#29: *1 client closed connection while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 06:44:33 [info] 29#29: *2 client 172.19.0.1 closed keepalive connection
+2024/07/08 06:47:07 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:47:07 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:47:07 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:47:07 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:48:07 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 06:48:24 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:48:24 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:48:24 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:48:24 [error] 29#29: *3 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/"
+2024/07/08 06:49:24 [info] 29#29: *5 client timed out (110: Connection timed out) while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 06:53:36 [info] 29#29: *7 client timed out (110: Connection timed out) while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 06:56:37 [info] 29#29: *9 client timed out (110: Connection timed out) while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 06:57:48 [info] 29#29: *11 client timed out (110: Connection timed out) while waiting for request, client: 172.19.0.1, server: 0.0.0.0:3000
+2024/07/08 07:06:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:06:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:06:54 [notice] 29#29: gracefully shutting down
+2024/07/08 07:06:54 [notice] 29#29: gracefully shutting down
+2024/07/08 07:06:54 [notice] 29#29: exiting
+2024/07/08 07:06:54 [notice] 29#29: exiting
+2024/07/08 07:06:54 [notice] 29#29: exit
+2024/07/08 07:06:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:06:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:06:54 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:06:54 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:06:54 [notice] 1#1: exit
+2024/07/08 07:06:54 [notice] 1#1: exit
+2024/07/08 07:09:19 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:09:19 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:09:19 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:09:19 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:09:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:09:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:09:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:09:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:09:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:09:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:09:19 [notice] 1#1: start worker processes
+2024/07/08 07:09:19 [notice] 1#1: start worker processes
+2024/07/08 07:09:19 [notice] 1#1: start worker process 29
+2024/07/08 07:09:19 [notice] 1#1: start worker process 29
+2024/07/08 07:11:45 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.21.0.1, server: 0.0.0.0:3000
+2024/07/08 07:13:29 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 172.21.0.1, server: 0.0.0.0:3000
+2024/07/08 07:20:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:20:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:20:51 [notice] 29#29: gracefully shutting down
+2024/07/08 07:20:51 [notice] 29#29: gracefully shutting down
+2024/07/08 07:20:51 [notice] 29#29: exiting
+2024/07/08 07:20:51 [notice] 29#29: exiting
+2024/07/08 07:20:51 [notice] 29#29: exit
+2024/07/08 07:20:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:20:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:20:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:20:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:20:51 [notice] 1#1: exit
+2024/07/08 07:20:51 [notice] 1#1: exit
+2024/07/08 07:21:22 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:21:22 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:21:22 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:21:22 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:21:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:21:22 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:21:22 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:21:22 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:21:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:21:22 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:21:22 [notice] 1#1: start worker processes
+2024/07/08 07:21:22 [notice] 1#1: start worker processes
+2024/07/08 07:21:22 [notice] 1#1: start worker process 29
+2024/07/08 07:21:22 [notice] 1#1: start worker process 29
+2024/07/08 07:27:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:27:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:27:21 [notice] 29#29: gracefully shutting down
+2024/07/08 07:27:21 [notice] 29#29: gracefully shutting down
+2024/07/08 07:27:21 [notice] 29#29: exiting
+2024/07/08 07:27:21 [notice] 29#29: exiting
+2024/07/08 07:27:21 [notice] 29#29: exit
+2024/07/08 07:27:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:27:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:27:22 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:27:22 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:27:22 [notice] 1#1: exit
+2024/07/08 07:27:22 [notice] 1#1: exit
+2024/07/08 07:28:09 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:28:09 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:28:09 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:28:09 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:28:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:28:09 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:28:09 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:28:09 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:28:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:28:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:28:09 [notice] 1#1: start worker processes
+2024/07/08 07:28:09 [notice] 1#1: start worker processes
+2024/07/08 07:28:09 [notice] 1#1: start worker process 29
+2024/07/08 07:28:09 [notice] 1#1: start worker process 29
+2024/07/08 07:47:36 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:47:36 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:47:36 [notice] 29#29: gracefully shutting down
+2024/07/08 07:47:36 [notice] 29#29: gracefully shutting down
+2024/07/08 07:47:36 [notice] 29#29: exiting
+2024/07/08 07:47:36 [notice] 29#29: exiting
+2024/07/08 07:47:36 [notice] 29#29: exit
+2024/07/08 07:47:36 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:47:36 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:47:36 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:47:36 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:47:36 [notice] 1#1: exit
+2024/07/08 07:47:36 [notice] 1#1: exit
+2024/07/08 07:47:59 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:47:59 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:47:59 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:47:59 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:47:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:47:59 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:47:59 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:47:59 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:47:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:47:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:47:59 [notice] 1#1: start worker processes
+2024/07/08 07:47:59 [notice] 1#1: start worker processes
+2024/07/08 07:47:59 [notice] 1#1: start worker process 29
+2024/07/08 07:47:59 [notice] 1#1: start worker process 29
+2024/07/08 07:50:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:50:54 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 07:50:54 [notice] 29#29: gracefully shutting down
+2024/07/08 07:50:54 [notice] 29#29: gracefully shutting down
+2024/07/08 07:50:54 [notice] 29#29: exiting
+2024/07/08 07:50:54 [notice] 29#29: exiting
+2024/07/08 07:50:54 [notice] 29#29: exit
+2024/07/08 07:50:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:50:54 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 07:50:54 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:50:54 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 07:50:54 [notice] 1#1: exit
+2024/07/08 07:50:54 [notice] 1#1: exit
+2024/07/08 07:51:19 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:51:19 [notice] 1#1: using the "epoll" event method
+2024/07/08 07:51:19 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:51:19 [notice] 1#1: nginx/1.27.0
+2024/07/08 07:51:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:51:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 07:51:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:51:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 07:51:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:51:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 07:51:19 [notice] 1#1: start worker processes
+2024/07/08 07:51:19 [notice] 1#1: start worker processes
+2024/07/08 07:51:19 [notice] 1#1: start worker process 29
+2024/07/08 07:51:19 [notice] 1#1: start worker process 29
+2024/07/08 08:19:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 08:19:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 08:19:40 [notice] 29#29: gracefully shutting down
+2024/07/08 08:19:40 [notice] 29#29: gracefully shutting down
+2024/07/08 08:19:40 [notice] 29#29: exiting
+2024/07/08 08:19:40 [notice] 29#29: exiting
+2024/07/08 08:19:40 [notice] 29#29: exit
+2024/07/08 08:19:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 08:19:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 08:19:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 08:19:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 08:19:40 [notice] 1#1: exit
+2024/07/08 08:19:40 [notice] 1#1: exit
+2024/07/08 08:20:04 [notice] 1#1: using the "epoll" event method
+2024/07/08 08:20:04 [notice] 1#1: using the "epoll" event method
+2024/07/08 08:20:04 [notice] 1#1: nginx/1.27.0
+2024/07/08 08:20:04 [notice] 1#1: nginx/1.27.0
+2024/07/08 08:20:04 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 08:20:04 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 08:20:04 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 08:20:04 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 08:20:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 08:20:04 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 08:20:04 [notice] 1#1: start worker processes
+2024/07/08 08:20:04 [notice] 1#1: start worker processes
+2024/07/08 08:20:04 [notice] 1#1: start worker process 29
+2024/07/08 08:20:04 [notice] 1#1: start worker process 29
+2024/07/08 08:20:51 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/08 08:20:51 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/08 08:20:51 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/08 08:20:51 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088", referrer: "http://localhost:8088/"
+2024/07/08 08:21:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 08:21:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 08:21:19 [notice] 29#29: gracefully shutting down
+2024/07/08 08:21:19 [notice] 29#29: gracefully shutting down
+2024/07/08 08:21:42 [notice] 1#1: using the "epoll" event method
+2024/07/08 08:21:42 [notice] 1#1: using the "epoll" event method
+2024/07/08 08:21:42 [notice] 1#1: nginx/1.27.0
+2024/07/08 08:21:42 [notice] 1#1: nginx/1.27.0
+2024/07/08 08:21:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 08:21:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 08:21:42 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 08:21:42 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 08:21:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 08:21:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 08:21:42 [notice] 1#1: start worker processes
+2024/07/08 08:21:42 [notice] 1#1: start worker processes
+2024/07/08 08:21:42 [notice] 1#1: start worker process 29
+2024/07/08 08:21:42 [notice] 1#1: start worker process 29
+2024/07/08 10:59:10 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.16.1, server: 0.0.0.0:3000
+2024/07/08 11:02:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:02:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:02:28 [notice] 29#29: gracefully shutting down
+2024/07/08 11:02:28 [notice] 29#29: gracefully shutting down
+2024/07/08 11:02:28 [notice] 29#29: exiting
+2024/07/08 11:02:28 [notice] 29#29: exiting
+2024/07/08 11:02:28 [notice] 29#29: exit
+2024/07/08 11:02:28 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:02:28 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:02:28 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:02:28 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:02:28 [notice] 1#1: exit
+2024/07/08 11:02:28 [notice] 1#1: exit
+2024/07/08 11:02:50 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:02:50 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:02:50 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:02:50 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:02:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:02:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:02:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:02:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:02:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:02:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:02:50 [notice] 1#1: start worker processes
+2024/07/08 11:02:50 [notice] 1#1: start worker processes
+2024/07/08 11:02:50 [notice] 1#1: start worker process 29
+2024/07/08 11:02:50 [notice] 1#1: start worker process 29
+2024/07/08 11:26:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:26:41 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:26:41 [notice] 29#29: gracefully shutting down
+2024/07/08 11:26:41 [notice] 29#29: gracefully shutting down
+2024/07/08 11:26:41 [notice] 29#29: exiting
+2024/07/08 11:26:41 [notice] 29#29: exiting
+2024/07/08 11:26:41 [notice] 29#29: exit
+2024/07/08 11:26:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:26:41 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:26:41 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:26:41 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:26:41 [notice] 1#1: exit
+2024/07/08 11:26:41 [notice] 1#1: exit
+2024/07/08 11:27:25 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:27:25 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:27:25 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:27:25 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:27:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:27:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:27:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:27:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:27:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:27:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:27:25 [notice] 1#1: start worker processes
+2024/07/08 11:27:25 [notice] 1#1: start worker processes
+2024/07/08 11:27:25 [notice] 1#1: start worker process 29
+2024/07/08 11:27:25 [notice] 1#1: start worker process 29
+2024/07/08 11:32:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:32:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:32:50 [notice] 29#29: gracefully shutting down
+2024/07/08 11:32:50 [notice] 29#29: gracefully shutting down
+2024/07/08 11:32:50 [notice] 29#29: exiting
+2024/07/08 11:32:50 [notice] 29#29: exiting
+2024/07/08 11:32:50 [notice] 29#29: exit
+2024/07/08 11:32:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:32:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:32:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:32:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:32:51 [notice] 1#1: exit
+2024/07/08 11:32:51 [notice] 1#1: exit
+2024/07/08 11:35:00 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:35:00 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:35:00 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:35:00 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:35:00 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:35:00 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:35:00 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:35:00 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:35:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:35:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:35:00 [notice] 1#1: start worker processes
+2024/07/08 11:35:00 [notice] 1#1: start worker processes
+2024/07/08 11:35:00 [notice] 1#1: start worker process 29
+2024/07/08 11:35:00 [notice] 1#1: start worker process 29
+2024/07/08 11:36:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:36:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:36:50 [notice] 29#29: gracefully shutting down
+2024/07/08 11:36:50 [notice] 29#29: gracefully shutting down
+2024/07/08 11:36:50 [notice] 29#29: exiting
+2024/07/08 11:36:50 [notice] 29#29: exiting
+2024/07/08 11:36:50 [notice] 29#29: exit
+2024/07/08 11:36:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:36:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:36:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:36:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:36:50 [notice] 1#1: exit
+2024/07/08 11:36:50 [notice] 1#1: exit
+2024/07/08 11:37:17 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:37:17 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:37:17 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:37:17 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:37:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:37:17 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:37:17 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:37:17 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:37:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:37:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:37:17 [notice] 1#1: start worker processes
+2024/07/08 11:37:17 [notice] 1#1: start worker processes
+2024/07/08 11:37:17 [notice] 1#1: start worker process 29
+2024/07/08 11:37:17 [notice] 1#1: start worker process 29
+2024/07/08 11:44:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:44:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:44:38 [notice] 29#29: gracefully shutting down
+2024/07/08 11:44:38 [notice] 29#29: gracefully shutting down
+2024/07/08 11:44:38 [notice] 29#29: exiting
+2024/07/08 11:44:38 [notice] 29#29: exiting
+2024/07/08 11:44:38 [notice] 29#29: exit
+2024/07/08 11:44:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:44:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:44:38 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:44:38 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:44:38 [notice] 1#1: exit
+2024/07/08 11:44:38 [notice] 1#1: exit
+2024/07/08 11:46:50 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:46:50 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:46:50 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:46:50 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:46:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:46:50 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:46:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:46:50 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:46:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:46:50 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:46:50 [notice] 1#1: start worker processes
+2024/07/08 11:46:50 [notice] 1#1: start worker processes
+2024/07/08 11:46:50 [notice] 1#1: start worker process 29
+2024/07/08 11:46:50 [notice] 1#1: start worker process 29
+2024/07/08 11:51:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:51:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:51:51 [notice] 29#29: gracefully shutting down
+2024/07/08 11:51:51 [notice] 29#29: gracefully shutting down
+2024/07/08 11:51:51 [notice] 29#29: exiting
+2024/07/08 11:51:51 [notice] 29#29: exiting
+2024/07/08 11:51:51 [notice] 29#29: exit
+2024/07/08 11:51:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:51:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:51:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:51:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:51:51 [notice] 1#1: exit
+2024/07/08 11:51:51 [notice] 1#1: exit
+2024/07/08 11:52:52 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:52:52 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:52:52 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:52:52 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:52:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:52:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:52:52 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:52:52 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:52:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:52:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:52:52 [notice] 1#1: start worker processes
+2024/07/08 11:52:52 [notice] 1#1: start worker processes
+2024/07/08 11:52:52 [notice] 1#1: start worker process 29
+2024/07/08 11:52:52 [notice] 1#1: start worker process 29
+2024/07/08 11:55:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:55:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 11:55:21 [notice] 29#29: gracefully shutting down
+2024/07/08 11:55:21 [notice] 29#29: gracefully shutting down
+2024/07/08 11:55:21 [notice] 29#29: exiting
+2024/07/08 11:55:21 [notice] 29#29: exiting
+2024/07/08 11:55:21 [notice] 29#29: exit
+2024/07/08 11:55:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:55:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 11:55:22 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:55:22 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 11:55:22 [notice] 1#1: exit
+2024/07/08 11:55:22 [notice] 1#1: exit
+2024/07/08 11:55:44 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:55:44 [notice] 1#1: using the "epoll" event method
+2024/07/08 11:55:44 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:55:44 [notice] 1#1: nginx/1.27.0
+2024/07/08 11:55:44 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:55:44 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 11:55:44 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:55:44 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 11:55:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:55:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 11:55:44 [notice] 1#1: start worker processes
+2024/07/08 11:55:44 [notice] 1#1: start worker processes
+2024/07/08 11:55:44 [notice] 1#1: start worker process 29
+2024/07/08 11:55:44 [notice] 1#1: start worker process 29
+2024/07/08 12:07:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:07:50 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:07:50 [notice] 29#29: gracefully shutting down
+2024/07/08 12:07:50 [notice] 29#29: gracefully shutting down
+2024/07/08 12:07:50 [notice] 29#29: exiting
+2024/07/08 12:07:50 [notice] 29#29: exiting
+2024/07/08 12:07:50 [notice] 29#29: exit
+2024/07/08 12:07:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:07:50 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:07:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:07:50 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:07:50 [notice] 1#1: exit
+2024/07/08 12:07:50 [notice] 1#1: exit
+2024/07/08 12:08:12 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:08:12 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:08:12 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:08:12 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:08:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:08:12 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:08:12 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:08:12 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:08:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:08:12 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:08:12 [notice] 1#1: start worker processes
+2024/07/08 12:08:12 [notice] 1#1: start worker processes
+2024/07/08 12:08:12 [notice] 1#1: start worker process 29
+2024/07/08 12:08:12 [notice] 1#1: start worker process 29
+2024/07/08 12:09:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:09:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:09:40 [notice] 29#29: gracefully shutting down
+2024/07/08 12:09:40 [notice] 29#29: gracefully shutting down
+2024/07/08 12:09:40 [notice] 29#29: exiting
+2024/07/08 12:09:40 [notice] 29#29: exiting
+2024/07/08 12:09:40 [notice] 29#29: exit
+2024/07/08 12:09:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:09:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:09:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:09:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:09:40 [notice] 1#1: exit
+2024/07/08 12:09:40 [notice] 1#1: exit
+2024/07/08 12:10:14 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:10:14 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:10:14 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:10:14 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:10:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:10:14 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:10:14 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:10:14 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:10:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:10:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:10:14 [notice] 1#1: start worker processes
+2024/07/08 12:10:14 [notice] 1#1: start worker processes
+2024/07/08 12:10:14 [notice] 1#1: start worker process 29
+2024/07/08 12:10:14 [notice] 1#1: start worker process 29
+2024/07/08 12:21:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:21:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:21:32 [notice] 29#29: gracefully shutting down
+2024/07/08 12:21:32 [notice] 29#29: gracefully shutting down
+2024/07/08 12:21:32 [notice] 29#29: exiting
+2024/07/08 12:21:32 [notice] 29#29: exiting
+2024/07/08 12:21:32 [notice] 29#29: exit
+2024/07/08 12:21:33 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:21:33 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:21:33 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:21:33 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:21:33 [notice] 1#1: exit
+2024/07/08 12:21:33 [notice] 1#1: exit
+2024/07/08 12:21:54 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:21:54 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:21:54 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:21:54 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:21:54 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:21:54 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:21:54 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:21:54 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:21:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:21:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:21:54 [notice] 1#1: start worker processes
+2024/07/08 12:21:54 [notice] 1#1: start worker processes
+2024/07/08 12:21:54 [notice] 1#1: start worker process 29
+2024/07/08 12:21:54 [notice] 1#1: start worker process 29
+2024/07/08 12:23:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:23:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:23:28 [notice] 29#29: gracefully shutting down
+2024/07/08 12:23:28 [notice] 29#29: gracefully shutting down
+2024/07/08 12:23:28 [notice] 29#29: exiting
+2024/07/08 12:23:28 [notice] 29#29: exiting
+2024/07/08 12:23:28 [notice] 29#29: exit
+2024/07/08 12:23:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:23:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:23:29 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:23:29 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:23:29 [notice] 1#1: exit
+2024/07/08 12:23:29 [notice] 1#1: exit
+2024/07/08 12:23:52 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:23:52 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:23:52 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:23:52 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:23:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:23:52 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:23:52 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:23:52 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:23:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:23:52 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:23:52 [notice] 1#1: start worker processes
+2024/07/08 12:23:52 [notice] 1#1: start worker processes
+2024/07/08 12:23:52 [notice] 1#1: start worker process 29
+2024/07/08 12:23:52 [notice] 1#1: start worker process 29
+2024/07/08 12:27:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:27:29 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:27:29 [notice] 29#29: gracefully shutting down
+2024/07/08 12:27:29 [notice] 29#29: gracefully shutting down
+2024/07/08 12:27:29 [notice] 29#29: exiting
+2024/07/08 12:27:29 [notice] 29#29: exiting
+2024/07/08 12:27:29 [notice] 29#29: exit
+2024/07/08 12:27:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:27:29 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:27:29 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:27:29 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:27:29 [notice] 1#1: exit
+2024/07/08 12:27:29 [notice] 1#1: exit
+2024/07/08 12:28:11 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:28:11 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:28:11 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:28:11 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:28:11 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:28:11 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:28:11 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:28:11 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:28:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:28:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:28:11 [notice] 1#1: start worker processes
+2024/07/08 12:28:11 [notice] 1#1: start worker processes
+2024/07/08 12:28:11 [notice] 1#1: start worker process 29
+2024/07/08 12:28:11 [notice] 1#1: start worker process 29
+2024/07/08 12:53:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:53:40 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:53:40 [notice] 29#29: gracefully shutting down
+2024/07/08 12:53:40 [notice] 29#29: gracefully shutting down
+2024/07/08 12:53:40 [notice] 29#29: exiting
+2024/07/08 12:53:40 [notice] 29#29: exiting
+2024/07/08 12:53:40 [notice] 29#29: exit
+2024/07/08 12:53:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:53:40 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:53:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:53:40 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:53:40 [notice] 1#1: exit
+2024/07/08 12:53:40 [notice] 1#1: exit
+2024/07/08 12:54:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:54:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:54:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:54:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:54:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:54:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:54:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:54:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:54:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:54:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:54:26 [notice] 1#1: start worker processes
+2024/07/08 12:54:26 [notice] 1#1: start worker processes
+2024/07/08 12:54:26 [notice] 1#1: start worker process 29
+2024/07/08 12:54:26 [notice] 1#1: start worker process 29
+2024/07/08 12:56:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:56:52 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 12:56:52 [notice] 29#29: gracefully shutting down
+2024/07/08 12:56:52 [notice] 29#29: gracefully shutting down
+2024/07/08 12:56:52 [notice] 29#29: exiting
+2024/07/08 12:56:52 [notice] 29#29: exiting
+2024/07/08 12:56:52 [notice] 29#29: exit
+2024/07/08 12:56:52 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:56:52 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 12:56:52 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:56:52 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 12:56:52 [notice] 1#1: exit
+2024/07/08 12:56:52 [notice] 1#1: exit
+2024/07/08 12:57:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:57:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 12:57:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:57:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 12:57:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:57:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 12:57:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:57:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 12:57:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:57:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 12:57:26 [notice] 1#1: start worker processes
+2024/07/08 12:57:26 [notice] 1#1: start worker processes
+2024/07/08 12:57:26 [notice] 1#1: start worker process 29
+2024/07/08 12:57:26 [notice] 1#1: start worker process 29
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui?rd=%23%2Faoa%2Fbbb HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui?rd=%23%2Faoa%2Fbbb HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui?rd=%23%2Faoa%2Fbbb HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui?rd=%23%2Faoa%2Fbbb HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/aurax-ui?rd=%23%2Faoa%2Fbbb"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/aurax-ui?rd=%23%2Faoa%2Fbbb"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/aurax-ui?rd=%23%2Faoa%2Fbbb"
+2024/07/08 13:04:27 [error] 29#29: *1 open() "/etc/nginx/sample-app/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.9:8088", referrer: "http://192.168.1.9:8088/aurax-ui?rd=%23%2Faoa%2Fbbb"
+2024/07/08 13:04:58 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:58 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:58 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:04:58 [error] 29#29: *1 open() "/etc/nginx/sample-app/aurax-ui" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /aurax-ui HTTP/1.1", host: "192.168.1.9:8088"
+2024/07/08 13:05:27 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.31.0.1, server: 0.0.0.0:3000
+2024/07/08 13:06:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:06:28 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:06:28 [notice] 29#29: gracefully shutting down
+2024/07/08 13:06:28 [notice] 29#29: gracefully shutting down
+2024/07/08 13:06:28 [notice] 29#29: exiting
+2024/07/08 13:06:28 [notice] 29#29: exiting
+2024/07/08 13:06:28 [notice] 29#29: exit
+2024/07/08 13:06:28 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:06:28 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:06:28 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:06:28 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:06:28 [notice] 1#1: exit
+2024/07/08 13:06:28 [notice] 1#1: exit
+2024/07/08 13:06:55 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:06:55 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:06:55 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:06:55 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:06:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:06:55 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:06:55 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:06:55 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:06:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:06:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:06:55 [notice] 1#1: start worker processes
+2024/07/08 13:06:55 [notice] 1#1: start worker processes
+2024/07/08 13:06:55 [notice] 1#1: start worker process 29
+2024/07/08 13:06:55 [notice] 1#1: start worker process 29
+2024/07/08 13:13:55 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.32.1, server: 0.0.0.0:3000
+2024/07/08 13:17:04 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:17:04 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:17:04 [notice] 29#29: gracefully shutting down
+2024/07/08 13:17:04 [notice] 29#29: gracefully shutting down
+2024/07/08 13:17:04 [notice] 29#29: exiting
+2024/07/08 13:17:04 [notice] 29#29: exiting
+2024/07/08 13:17:04 [notice] 29#29: exit
+2024/07/08 13:17:04 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:17:04 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:17:04 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:17:04 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:17:04 [notice] 1#1: exit
+2024/07/08 13:17:04 [notice] 1#1: exit
+2024/07/08 13:17:27 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:17:27 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:17:27 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:17:27 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:17:27 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:17:27 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:17:27 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:17:27 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:17:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:17:27 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:17:27 [notice] 1#1: start worker processes
+2024/07/08 13:17:27 [notice] 1#1: start worker processes
+2024/07/08 13:17:27 [notice] 1#1: start worker process 29
+2024/07/08 13:17:27 [notice] 1#1: start worker process 29
+2024/07/08 13:19:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:19:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:19:07 [notice] 29#29: gracefully shutting down
+2024/07/08 13:19:07 [notice] 29#29: gracefully shutting down
+2024/07/08 13:19:07 [notice] 29#29: exiting
+2024/07/08 13:19:07 [notice] 29#29: exiting
+2024/07/08 13:19:07 [notice] 29#29: exit
+2024/07/08 13:19:08 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:19:08 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:19:08 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:19:08 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:19:08 [notice] 1#1: exit
+2024/07/08 13:19:08 [notice] 1#1: exit
+2024/07/08 13:19:30 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:19:30 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:19:30 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:19:30 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:19:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:19:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:19:30 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:19:30 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:19:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:19:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:19:30 [notice] 1#1: start worker processes
+2024/07/08 13:19:30 [notice] 1#1: start worker processes
+2024/07/08 13:19:30 [notice] 1#1: start worker process 30
+2024/07/08 13:19:30 [notice] 1#1: start worker process 30
+2024/07/08 13:21:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:21:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:21:05 [notice] 30#30: gracefully shutting down
+2024/07/08 13:21:05 [notice] 30#30: gracefully shutting down
+2024/07/08 13:21:05 [notice] 30#30: exiting
+2024/07/08 13:21:05 [notice] 30#30: exiting
+2024/07/08 13:21:05 [notice] 30#30: exit
+2024/07/08 13:21:06 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/07/08 13:21:06 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/07/08 13:21:06 [notice] 1#1: worker process 30 exited with code 0
+2024/07/08 13:21:06 [notice] 1#1: worker process 30 exited with code 0
+2024/07/08 13:21:06 [notice] 1#1: exit
+2024/07/08 13:21:06 [notice] 1#1: exit
+2024/07/08 13:21:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:21:26 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:21:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:21:26 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:21:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:21:26 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:21:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:21:26 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:21:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:21:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:21:26 [notice] 1#1: start worker processes
+2024/07/08 13:21:26 [notice] 1#1: start worker processes
+2024/07/08 13:21:26 [notice] 1#1: start worker process 29
+2024/07/08 13:21:26 [notice] 1#1: start worker process 29
+2024/07/08 13:25:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:25:01 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/08 13:25:01 [notice] 29#29: gracefully shutting down
+2024/07/08 13:25:01 [notice] 29#29: gracefully shutting down
+2024/07/08 13:25:01 [notice] 29#29: exiting
+2024/07/08 13:25:01 [notice] 29#29: exiting
+2024/07/08 13:25:01 [notice] 29#29: exit
+2024/07/08 13:25:01 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:25:01 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/08 13:25:01 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:25:01 [notice] 1#1: worker process 29 exited with code 0
+2024/07/08 13:25:01 [notice] 1#1: exit
+2024/07/08 13:25:01 [notice] 1#1: exit
+2024/07/08 13:27:21 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:27:21 [notice] 1#1: using the "epoll" event method
+2024/07/08 13:27:21 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:27:21 [notice] 1#1: nginx/1.27.0
+2024/07/08 13:27:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:27:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/08 13:27:21 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:27:21 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/08 13:27:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:27:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/08 13:27:21 [notice] 1#1: start worker processes
+2024/07/08 13:27:21 [notice] 1#1: start worker processes
+2024/07/08 13:27:21 [notice] 1#1: start worker process 29
+2024/07/08 13:27:21 [notice] 1#1: start worker process 29
+2024/07/08 13:32:44 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/08 13:34:08 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/08 13:39:28 [info] 29#29: *6 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/08 13:39:54 [info] 29#29: *8 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/09 06:40:40 [info] 29#29: *10 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/09 06:42:21 [info] 29#29: *12 client timed out (110: Connection timed out) while waiting for request, client: 192.168.160.1, server: 0.0.0.0:3000
+2024/07/09 06:46:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 06:46:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 06:46:46 [notice] 29#29: gracefully shutting down
+2024/07/09 06:46:46 [notice] 29#29: gracefully shutting down
+2024/07/09 06:46:46 [notice] 29#29: exiting
+2024/07/09 06:46:46 [notice] 29#29: exiting
+2024/07/09 06:46:46 [notice] 29#29: exit
+2024/07/09 06:46:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 06:46:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 06:46:46 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 06:46:46 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 06:46:46 [notice] 1#1: exit
+2024/07/09 06:46:46 [notice] 1#1: exit
+2024/07/09 06:47:15 [notice] 1#1: using the "epoll" event method
+2024/07/09 06:47:15 [notice] 1#1: using the "epoll" event method
+2024/07/09 06:47:15 [notice] 1#1: nginx/1.27.0
+2024/07/09 06:47:15 [notice] 1#1: nginx/1.27.0
+2024/07/09 06:47:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 06:47:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 06:47:15 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 06:47:15 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 06:47:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 06:47:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 06:47:15 [notice] 1#1: start worker processes
+2024/07/09 06:47:15 [notice] 1#1: start worker processes
+2024/07/09 06:47:15 [notice] 1#1: start worker process 29
+2024/07/09 06:47:15 [notice] 1#1: start worker process 29
+2024/07/09 07:01:32 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 192.168.208.1, server: 0.0.0.0:3000
+2024/07/09 07:03:41 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 192.168.208.1, server: 0.0.0.0:3000
+2024/07/09 07:42:23 [info] 29#29: *6 client timed out (110: Connection timed out) while waiting for request, client: 192.168.208.1, server: 0.0.0.0:3000
+2024/07/09 07:44:07 [info] 29#29: *8 client timed out (110: Connection timed out) while waiting for request, client: 192.168.208.1, server: 0.0.0.0:3000
+2024/07/09 11:10:16 [notice] 1#1: using the "epoll" event method
+2024/07/09 11:10:16 [notice] 1#1: using the "epoll" event method
+2024/07/09 11:10:16 [notice] 1#1: nginx/1.27.0
+2024/07/09 11:10:16 [notice] 1#1: nginx/1.27.0
+2024/07/09 11:10:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 11:10:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 11:10:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 11:10:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 11:10:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 11:10:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 11:10:16 [notice] 1#1: start worker processes
+2024/07/09 11:10:16 [notice] 1#1: start worker processes
+2024/07/09 11:10:16 [notice] 1#1: start worker process 29
+2024/07/09 11:10:16 [notice] 1#1: start worker process 29
+2024/07/09 11:54:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 11:54:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 11:54:05 [notice] 29#29: gracefully shutting down
+2024/07/09 11:54:05 [notice] 29#29: gracefully shutting down
+2024/07/09 11:54:05 [notice] 29#29: exiting
+2024/07/09 11:54:05 [notice] 29#29: exiting
+2024/07/09 11:54:05 [notice] 29#29: exit
+2024/07/09 11:54:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 11:54:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 11:54:05 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 11:54:05 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 11:54:05 [notice] 1#1: exit
+2024/07/09 11:54:05 [notice] 1#1: exit
+2024/07/09 11:54:33 [notice] 1#1: using the "epoll" event method
+2024/07/09 11:54:33 [notice] 1#1: using the "epoll" event method
+2024/07/09 11:54:33 [notice] 1#1: nginx/1.27.0
+2024/07/09 11:54:33 [notice] 1#1: nginx/1.27.0
+2024/07/09 11:54:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 11:54:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 11:54:33 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 11:54:33 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 11:54:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 11:54:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 11:54:33 [notice] 1#1: start worker processes
+2024/07/09 11:54:33 [notice] 1#1: start worker processes
+2024/07/09 11:54:33 [notice] 1#1: start worker process 29
+2024/07/09 11:54:33 [notice] 1#1: start worker process 29
+2024/07/09 12:03:55 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.21.0.1, server: 0.0.0.0:3000
+2024/07/09 13:43:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 13:43:38 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 13:43:38 [notice] 29#29: gracefully shutting down
+2024/07/09 13:43:38 [notice] 29#29: gracefully shutting down
+2024/07/09 13:43:38 [notice] 29#29: exiting
+2024/07/09 13:43:38 [notice] 29#29: exiting
+2024/07/09 13:43:38 [notice] 29#29: exit
+2024/07/09 13:43:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 13:43:38 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 13:43:38 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 13:43:38 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 13:43:38 [notice] 1#1: exit
+2024/07/09 13:43:38 [notice] 1#1: exit
+2024/07/09 13:44:19 [notice] 1#1: using the "epoll" event method
+2024/07/09 13:44:19 [notice] 1#1: using the "epoll" event method
+2024/07/09 13:44:19 [notice] 1#1: nginx/1.27.0
+2024/07/09 13:44:19 [notice] 1#1: nginx/1.27.0
+2024/07/09 13:44:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 13:44:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 13:44:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 13:44:19 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 13:44:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 13:44:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 13:44:19 [notice] 1#1: start worker processes
+2024/07/09 13:44:19 [notice] 1#1: start worker processes
+2024/07/09 13:44:19 [notice] 1#1: start worker process 29
+2024/07/09 13:44:19 [notice] 1#1: start worker process 29
+2024/07/09 14:30:54 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.23.0.1, server: 0.0.0.0:3000
+2024/07/09 14:59:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 14:59:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 14:59:59 [notice] 29#29: gracefully shutting down
+2024/07/09 14:59:59 [notice] 29#29: gracefully shutting down
+2024/07/09 14:59:59 [notice] 29#29: exiting
+2024/07/09 14:59:59 [notice] 29#29: exiting
+2024/07/09 14:59:59 [notice] 29#29: exit
+2024/07/09 14:59:59 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 14:59:59 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 14:59:59 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 14:59:59 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 14:59:59 [notice] 1#1: exit
+2024/07/09 14:59:59 [notice] 1#1: exit
+2024/07/09 15:00:35 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:00:35 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:00:35 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:00:35 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:00:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:00:35 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:00:35 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:00:35 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:00:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:00:35 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:00:35 [notice] 1#1: start worker processes
+2024/07/09 15:00:35 [notice] 1#1: start worker processes
+2024/07/09 15:00:35 [notice] 1#1: start worker process 29
+2024/07/09 15:00:35 [notice] 1#1: start worker process 29
+2024/07/09 15:20:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:20:42 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:20:42 [notice] 29#29: gracefully shutting down
+2024/07/09 15:20:42 [notice] 29#29: gracefully shutting down
+2024/07/09 15:20:42 [notice] 29#29: exiting
+2024/07/09 15:20:42 [notice] 29#29: exiting
+2024/07/09 15:20:42 [notice] 29#29: exit
+2024/07/09 15:20:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:20:42 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:20:42 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:20:42 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:20:42 [notice] 1#1: exit
+2024/07/09 15:20:42 [notice] 1#1: exit
+2024/07/09 15:21:16 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:21:16 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:21:16 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:21:16 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:21:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:21:16 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:21:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:21:16 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:21:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:21:16 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:21:16 [notice] 1#1: start worker processes
+2024/07/09 15:21:16 [notice] 1#1: start worker processes
+2024/07/09 15:21:16 [notice] 1#1: start worker process 29
+2024/07/09 15:21:16 [notice] 1#1: start worker process 29
+2024/07/09 15:45:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:45:19 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:45:19 [notice] 29#29: gracefully shutting down
+2024/07/09 15:45:19 [notice] 29#29: gracefully shutting down
+2024/07/09 15:45:19 [notice] 29#29: exiting
+2024/07/09 15:45:19 [notice] 29#29: exiting
+2024/07/09 15:45:19 [notice] 29#29: exit
+2024/07/09 15:45:19 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:45:19 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:45:19 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:45:19 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:45:19 [notice] 1#1: exit
+2024/07/09 15:45:19 [notice] 1#1: exit
+2024/07/09 15:46:25 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:46:25 [notice] 1#1: using the "epoll" event method
+2024/07/09 15:46:25 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:46:25 [notice] 1#1: nginx/1.27.0
+2024/07/09 15:46:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:46:25 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 15:46:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:46:25 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 15:46:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:46:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 15:46:25 [notice] 1#1: start worker processes
+2024/07/09 15:46:25 [notice] 1#1: start worker processes
+2024/07/09 15:46:25 [notice] 1#1: start worker process 29
+2024/07/09 15:46:25 [notice] 1#1: start worker process 29
+2024/07/09 15:59:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:59:44 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 15:59:44 [notice] 29#29: gracefully shutting down
+2024/07/09 15:59:44 [notice] 29#29: gracefully shutting down
+2024/07/09 15:59:44 [notice] 29#29: exiting
+2024/07/09 15:59:44 [notice] 29#29: exiting
+2024/07/09 15:59:44 [notice] 29#29: exit
+2024/07/09 15:59:44 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:59:44 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 15:59:44 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:59:44 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 15:59:44 [notice] 1#1: exit
+2024/07/09 15:59:44 [notice] 1#1: exit
+2024/07/09 16:01:03 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:01:03 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:01:03 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:01:03 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:01:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:01:03 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:01:03 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:01:03 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:01:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:01:03 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:01:03 [notice] 1#1: start worker processes
+2024/07/09 16:01:03 [notice] 1#1: start worker processes
+2024/07/09 16:01:03 [notice] 1#1: start worker process 29
+2024/07/09 16:01:03 [notice] 1#1: start worker process 29
+2024/07/09 16:09:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 16:09:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 16:09:57 [notice] 29#29: gracefully shutting down
+2024/07/09 16:09:57 [notice] 29#29: gracefully shutting down
+2024/07/09 16:09:57 [notice] 29#29: exiting
+2024/07/09 16:09:57 [notice] 29#29: exiting
+2024/07/09 16:09:57 [notice] 29#29: exit
+2024/07/09 16:09:57 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 16:09:57 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 16:09:57 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 16:09:57 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 16:09:57 [notice] 1#1: exit
+2024/07/09 16:09:57 [notice] 1#1: exit
+2024/07/09 16:10:34 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:10:34 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:10:34 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:10:34 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:10:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:10:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:10:34 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:10:34 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:10:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:10:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:10:34 [notice] 1#1: start worker processes
+2024/07/09 16:10:34 [notice] 1#1: start worker processes
+2024/07/09 16:10:34 [notice] 1#1: start worker process 29
+2024/07/09 16:10:34 [notice] 1#1: start worker process 29
+2024/07/09 16:25:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 16:25:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/09 16:25:03 [notice] 29#29: gracefully shutting down
+2024/07/09 16:25:03 [notice] 29#29: gracefully shutting down
+2024/07/09 16:25:03 [notice] 29#29: exiting
+2024/07/09 16:25:03 [notice] 29#29: exiting
+2024/07/09 16:25:03 [notice] 29#29: exit
+2024/07/09 16:25:03 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 16:25:03 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/09 16:25:03 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 16:25:03 [notice] 1#1: worker process 29 exited with code 0
+2024/07/09 16:25:03 [notice] 1#1: exit
+2024/07/09 16:25:03 [notice] 1#1: exit
+2024/07/09 16:25:32 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:25:32 [notice] 1#1: using the "epoll" event method
+2024/07/09 16:25:32 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:25:32 [notice] 1#1: nginx/1.27.0
+2024/07/09 16:25:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:25:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/09 16:25:32 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:25:32 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/09 16:25:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:25:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/09 16:25:32 [notice] 1#1: start worker processes
+2024/07/09 16:25:32 [notice] 1#1: start worker processes
+2024/07/09 16:25:32 [notice] 1#1: start worker process 30
+2024/07/09 16:25:32 [notice] 1#1: start worker process 30
+2024/07/10 05:41:56 [notice] 1#1: using the "epoll" event method
+2024/07/10 05:41:56 [notice] 1#1: using the "epoll" event method
+2024/07/10 05:41:56 [notice] 1#1: nginx/1.27.0
+2024/07/10 05:41:56 [notice] 1#1: nginx/1.27.0
+2024/07/10 05:41:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 05:41:56 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 05:41:56 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 05:41:56 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 05:41:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 05:41:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 05:41:56 [notice] 1#1: start worker processes
+2024/07/10 05:41:56 [notice] 1#1: start worker processes
+2024/07/10 05:41:56 [notice] 1#1: start worker process 29
+2024/07/10 05:41:56 [notice] 1#1: start worker process 29
+2024/07/10 05:55:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 05:55:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 05:55:05 [notice] 29#29: gracefully shutting down
+2024/07/10 05:55:05 [notice] 29#29: gracefully shutting down
+2024/07/10 05:55:05 [notice] 29#29: exiting
+2024/07/10 05:55:05 [notice] 29#29: exiting
+2024/07/10 05:55:05 [notice] 29#29: exit
+2024/07/10 05:55:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 05:55:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 05:55:05 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 05:55:05 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 05:55:05 [notice] 1#1: exit
+2024/07/10 05:55:05 [notice] 1#1: exit
+2024/07/10 05:58:46 [notice] 1#1: using the "epoll" event method
+2024/07/10 05:58:46 [notice] 1#1: using the "epoll" event method
+2024/07/10 05:58:46 [notice] 1#1: nginx/1.27.0
+2024/07/10 05:58:46 [notice] 1#1: nginx/1.27.0
+2024/07/10 05:58:46 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 05:58:46 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 05:58:46 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 05:58:46 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 05:58:46 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 05:58:46 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 05:58:46 [notice] 1#1: start worker processes
+2024/07/10 05:58:46 [notice] 1#1: start worker processes
+2024/07/10 05:58:46 [notice] 1#1: start worker process 29
+2024/07/10 05:58:46 [notice] 1#1: start worker process 29
+2024/07/10 06:09:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:09:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:09:12 [notice] 29#29: gracefully shutting down
+2024/07/10 06:09:12 [notice] 29#29: gracefully shutting down
+2024/07/10 06:09:12 [notice] 29#29: exiting
+2024/07/10 06:09:12 [notice] 29#29: exiting
+2024/07/10 06:09:12 [notice] 29#29: exit
+2024/07/10 06:09:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:09:12 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:09:12 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:09:12 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:09:12 [notice] 1#1: exit
+2024/07/10 06:09:12 [notice] 1#1: exit
+2024/07/10 06:09:47 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:09:47 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:09:47 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:09:47 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:09:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:09:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:09:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:09:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:09:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:09:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:09:47 [notice] 1#1: start worker processes
+2024/07/10 06:09:47 [notice] 1#1: start worker processes
+2024/07/10 06:09:47 [notice] 1#1: start worker process 29
+2024/07/10 06:09:47 [notice] 1#1: start worker process 29
+2024/07/10 06:19:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:19:53 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:19:53 [notice] 29#29: gracefully shutting down
+2024/07/10 06:19:53 [notice] 29#29: gracefully shutting down
+2024/07/10 06:19:53 [notice] 29#29: exiting
+2024/07/10 06:19:53 [notice] 29#29: exiting
+2024/07/10 06:19:53 [notice] 29#29: exit
+2024/07/10 06:19:53 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:19:53 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:19:53 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:19:53 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:19:53 [notice] 1#1: exit
+2024/07/10 06:19:53 [notice] 1#1: exit
+2024/07/10 06:20:21 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:20:21 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:20:21 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:20:21 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:20:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:20:21 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:20:21 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:20:21 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:20:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:20:21 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:20:21 [notice] 1#1: start worker processes
+2024/07/10 06:20:21 [notice] 1#1: start worker processes
+2024/07/10 06:20:21 [notice] 1#1: start worker process 29
+2024/07/10 06:20:21 [notice] 1#1: start worker process 29
+2024/07/10 06:24:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:24:23 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 06:24:23 [notice] 29#29: gracefully shutting down
+2024/07/10 06:24:23 [notice] 29#29: gracefully shutting down
+2024/07/10 06:24:23 [notice] 29#29: exiting
+2024/07/10 06:24:23 [notice] 29#29: exiting
+2024/07/10 06:24:23 [notice] 29#29: exit
+2024/07/10 06:24:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:24:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 06:24:23 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:24:23 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 06:24:23 [notice] 1#1: exit
+2024/07/10 06:24:23 [notice] 1#1: exit
+2024/07/10 06:37:13 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:37:13 [notice] 1#1: using the "epoll" event method
+2024/07/10 06:37:13 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:37:13 [notice] 1#1: nginx/1.27.0
+2024/07/10 06:37:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:37:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 06:37:13 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:37:13 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 06:37:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:37:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 06:37:13 [notice] 1#1: start worker processes
+2024/07/10 06:37:13 [notice] 1#1: start worker processes
+2024/07/10 06:37:13 [notice] 1#1: start worker process 29
+2024/07/10 06:37:13 [notice] 1#1: start worker process 29
+2024/07/10 06:54:31 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.27.0.1, server: 0.0.0.0:3000
+2024/07/10 08:28:46 [info] 29#29: *4 client timed out (110: Connection timed out) while waiting for request, client: 172.27.0.1, server: 0.0.0.0:3000
+2024/07/10 08:30:16 [info] 29#29: *6 client timed out (110: Connection timed out) while waiting for request, client: 172.27.0.1, server: 0.0.0.0:3000
+2024/07/10 08:39:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 08:39:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/10 08:39:51 [notice] 29#29: gracefully shutting down
+2024/07/10 08:39:51 [notice] 29#29: gracefully shutting down
+2024/07/10 08:39:51 [notice] 29#29: exiting
+2024/07/10 08:39:51 [notice] 29#29: exiting
+2024/07/10 08:39:51 [notice] 29#29: exit
+2024/07/10 08:39:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 08:39:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/10 08:39:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 08:39:51 [notice] 1#1: worker process 29 exited with code 0
+2024/07/10 08:39:51 [notice] 1#1: exit
+2024/07/10 08:39:51 [notice] 1#1: exit
+2024/07/10 08:40:18 [notice] 1#1: using the "epoll" event method
+2024/07/10 08:40:18 [notice] 1#1: using the "epoll" event method
+2024/07/10 08:40:18 [notice] 1#1: nginx/1.27.0
+2024/07/10 08:40:18 [notice] 1#1: nginx/1.27.0
+2024/07/10 08:40:18 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 08:40:18 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/10 08:40:18 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 08:40:18 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/10 08:40:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 08:40:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/10 08:40:18 [notice] 1#1: start worker processes
+2024/07/10 08:40:18 [notice] 1#1: start worker processes
+2024/07/10 08:40:18 [notice] 1#1: start worker process 29
+2024/07/10 08:40:18 [notice] 1#1: start worker process 29

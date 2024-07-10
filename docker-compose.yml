@@ -1,0 +1,245 @@
+version: "3"
+
+networks:
+ kong-net:
+  driver: bridge
+
+services:
+  #######################################
+  # Nginx: For Sample App Befor Kong
+  #######################################
+  nginxmain:
+    image: nginx:latest
+    ports:
+      - 8088:3000
+    volumes:
+      - ./nginxmain/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginxmain/logs/:/etc/nginx/logs/
+      - ./nginxmain/index.html:/etc/nginx/sample-app/index.html
+
+  #######################################
+  # Nginx: For Sample App
+  #######################################
+  nginx:
+    image: nginx:latest
+    ports:
+      - 80:80
+      - 8008:3000
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/logs/:/etc/nginx/logs/
+      - ./nginx/index.html:/etc/nginx/index.html
+      - ./nginx/sample-app/index.html:/etc/nginx/sample-app/index.html
+      - ./nginx/aurax-ui/index.html:/etc/nginx/aurax-ui/index.html
+
+  #######################################
+  # Postgres: The database used by Kong
+  #######################################
+  kong-database:
+    image: postgres:9.6
+    restart: always
+    networks:
+      - kong-net
+    environment:
+      POSTGRES_PASSWORD: kong
+      POSTGRES_USER: kong
+      POSTGRES_DB: kong
+    volumes:
+      - ./postgres/kong/data:/var/lib/postgresql/data
+    ports:
+      - "6432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "kong"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  #######################################
+  # Kong database migration
+  #######################################
+  kong-migration:
+    image: kong:latest
+    command: "kong migrations bootstrap"
+    networks:
+      - kong-net
+    restart: on-failure
+    environment:
+      KONG_PG_HOST: kong-database
+      KONG_DATABASE: postgres
+      KONG_PG_PASSWORD: kong
+    links:
+      - kong-database
+    depends_on:
+      - kong-database
+
+  #######################################
+  # Kong: The API Gateway
+  #######################################
+  kong:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    extra_hosts:
+      - "keycloak.dgpays.local:172.20.40.150"
+    restart: always
+    networks:
+      - kong-net
+    environment:
+      KONG_DATABASE: postgres
+      KONG_PG_HOST: kong-database
+      KONG_PG_USER: kong
+      KONG_PG_PASSWORD: kong
+      KONG_PROXY_LISTEN: 0.0.0.0:8000
+      KONG_PROXY_LISTEN_SSL: 0.0.0.0:8443
+      KONG_ADMIN_LISTEN: 0.0.0.0:8001
+      KONG_LOG_LEVEL : debug
+      KONG_PLUGINS: bundled,oidc
+      KONG_NGINX_HTTP_LUA_SHARED_DICT: "kong_oidc 24m"
+    depends_on:
+      - kong-migration
+      - kong-database
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://kong:8001"]
+      interval: 5s
+      timeout: 2s
+      retries: 15
+    ports:
+      - "9001:8001"
+      - "9000:8000"
+  # kong:
+    # image: registry.dgpays.local/devops/kong:3.1-mst
+    # extra_hosts:
+      # - "keycloak.dgpays.local:172.20.40.150"
+    # restart: always
+    # networks:
+      # - kong-net
+    # environment:
+      # KONG_DATABASE: postgres
+      # KONG_PG_HOST: kong-database
+      # KONG_PG_USER: kong
+      # KONG_PG_PASSWORD: kong
+      # KONG_PROXY_LISTEN: 0.0.0.0:8000
+      # KONG_PROXY_LISTEN_SSL: 0.0.0.0:8443
+      # KONG_ADMIN_LISTEN: 0.0.0.0:8001
+      # KONG_PLUGINS: bundled,oidc
+    # depends_on:
+      # - kong-migration
+      # - kong-database
+    # healthcheck:
+      # test: ["CMD", "curl", "-f", "http://kong:8001"]
+      # interval: 5s
+      # timeout: 2s
+      # retries: 15
+    # ports:
+      # - "9001:8001"
+      # - "9000:8000"
+  
+  postgres_keycloak: # https://hub.docker.com/_/postgres
+    container_name: postgres_keycloak
+    image: postgres:14.5-alpine
+    ports:
+      - "7432:5432"
+    environment:
+      POSTGRES_DB: bitnami_keycloak
+      POSTGRES_USER: bn_keycloak
+      POSTGRES_PASSWORD: "#3]O?4RGj)DE7Z!9SA5"
+    volumes:
+      - ./postgres/keycloak/data:/var/lib/postgresql/data
+    restart: on-failure
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -d $${POSTGRES_DB} -U $${POSTGRES_USER}" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - kong-net
+      
+  keycloak_kong: # https://hub.docker.com/r/bitnami/keycloak #registry.dgpays.local/devops/keycloak:ob.19.0.1
+    container_name: keycloak_kong
+    image: bitnami/keycloak:22.0.1
+    volumes:
+     # - ./providers/dasniko.keycloak-2fa-sms-authenticator.jar:/opt/bitnami/keycloak/providers/dasniko.keycloak-2fa-sms-authenticator.jar
+     # - ./providers/keycloak-ip-authenticator.jar:/opt/bitnami/keycloak/providers/keycloak-ip-authenticator.jar
+     # - ./providers/keycloak-2fa-email-authenticator-1.0.0.0-SNAPSHOT.jar:/opt/bitnami/keycloak/providers/keycloak-2fa-email-authenticator-1.0.0.0-SNAPSHOT.jar
+      - ./providers/keycloak-aura-otp-authenticator-1.0.17-SNAPSHOT.jar:/opt/bitnami/keycloak/providers/keycloak-aura-otp-authenticator-1.0.17-SNAPSHOT.jar
+      - ./providers/keycloak-aura-event-listener-1.0.10-SNAPSHOT.jar:/opt/bitnami/keycloak/providers/keycloak-aura-event-listener-1.0.10-SNAPSHOT.jar
+     # - ./theme/phone:/opt/bitnami/keycloak/themes/phone
+     # - ./theme/keywind:/opt/bitnami/keycloak/themes/keywind
+      - ./theme/aura-theme:/opt/bitnami/keycloak/themes/aura-theme
+     # - ./theme/alfresco:/opt/bitnami/keycloak/themes/alfresco
+     # - ./theme/cyboinsect-theme:/opt/bitnami/keycloak/themes/cyboinsect-theme
+    ports:
+      - "8080:8080"
+    environment:
+      KEYCLOAK_DATABASE_HOST: postgres_keycloak
+      KEYCLOAK_DATABASE_PASSWORD: "#3]O?4RGj)DE7Z!9SA5"
+      KEYCLOAK_ADMIN_USER: admin
+      KEYCLOAK_ADMIN_PASSWORD: admin
+      KEYCLOAK_LOGLEVEL: ALL 
+      KEYCLOAK_LOG_LEVEL: ALL 
+      KC_LOG_LEVEL: ALL 
+    restart: on-failure
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080" ]
+      interval: 30s
+      timeout: 15s
+      retries: 5
+      start_period: 30s
+    networks:
+      - kong-net
+    depends_on:
+      - postgres_keycloak
+
+  #######################################
+  # Konga database prepare
+  #######################################
+  konga-prepare:
+    image: pantsel/konga:next
+    command: "-c prepare -a postgres -u postgresql://kong:kong@kong-database:5432/konga_db"
+    environment:
+      DB_ADAPTER: postgres
+      DB_HOST: kong-database
+      DB_USER: kong
+      DB_PASSWORD: kong
+    networks:
+      - kong-net
+    restart: on-failure
+    links:
+      - kong-database
+    depends_on:
+      - kong-database
+
+  #######################################
+  # Konga: Kong GUI
+  #######################################
+  konga:
+    image: pantsel/konga:next
+    extra_hosts:
+      - "keycloak.dgpays.local:172.20.40.150"
+    restart: always
+    networks:
+        - kong-net
+    environment:
+      DB_ADAPTER: postgres
+      DB_HOST: kong-database
+      DB_USER: kong
+      DB_PASSWORD: kong
+      TOKEN_SECRET: km1GUr4RkcQD7DewhJPNXrCuZwcKmqjb
+      DB_DATABASE: konga_db
+      NODE_ENV: production
+    depends_on:
+      - kong-database
+    ports:
+      - "1337:1337"
+  #######################################
+  # Test Api: for keykloak 
+  #######################################
+  # test-api:
+  #   image: registry.dgpays.local/library/zeebe-lab:3.0
+  #   networks:
+  #     - kong-net
+  #   depends_on:
+  #     - kong
+  #   ports:
+  #     - "443:443"
+  #     - "1443:80"

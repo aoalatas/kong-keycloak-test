@@ -2214,3 +2214,584 @@
 2024/07/10 09:15:42 [info] 29#29: *4 client 172.29.0.1 closed keepalive connection
 2024/07/10 09:24:34 [info] 29#29: *5 client 172.29.0.1 closed keepalive connection
 2024/07/10 10:20:50 [info] 29#29: *6 client 172.29.0.1 closed keepalive connection
+2024/07/11 14:20:24 [notice] 1#1: using the "epoll" event method
+2024/07/11 14:20:24 [notice] 1#1: using the "epoll" event method
+2024/07/11 14:20:24 [notice] 1#1: nginx/1.27.0
+2024/07/11 14:20:24 [notice] 1#1: nginx/1.27.0
+2024/07/11 14:20:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/11 14:20:24 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/11 14:20:24 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/11 14:20:24 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/11 14:20:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/11 14:20:24 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/11 14:20:24 [notice] 1#1: start worker processes
+2024/07/11 14:20:24 [notice] 1#1: start worker processes
+2024/07/11 14:20:24 [notice] 1#1: start worker process 29
+2024/07/11 14:20:24 [notice] 1#1: start worker process 29
+2024/07/17 11:27:45 [notice] 1#1: using the "epoll" event method
+2024/07/17 11:27:45 [notice] 1#1: using the "epoll" event method
+2024/07/17 11:27:45 [notice] 1#1: nginx/1.27.0
+2024/07/17 11:27:45 [notice] 1#1: nginx/1.27.0
+2024/07/17 11:27:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/17 11:27:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/17 11:27:45 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/17 11:27:45 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/17 11:27:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/17 11:27:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/17 11:27:45 [notice] 1#1: start worker processes
+2024/07/17 11:27:45 [notice] 1#1: start worker processes
+2024/07/17 11:27:45 [notice] 1#1: start worker process 29
+2024/07/17 11:27:45 [notice] 1#1: start worker process 29
+2024/07/17 11:53:51 [error] 29#29: *1 "/etc/nginx/aurax-ui/aurax-ui/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /aurax-ui/ HTTP/1.1", host: "192.168.65.133:8008"
+2024/07/17 11:53:51 [error] 29#29: *1 "/etc/nginx/aurax-ui/aurax-ui/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /aurax-ui/ HTTP/1.1", host: "192.168.65.133:8008"
+2024/07/17 11:53:51 [error] 29#29: *1 "/etc/nginx/aurax-ui/aurax-ui/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /aurax-ui/ HTTP/1.1", host: "192.168.65.133:8008"
+2024/07/17 11:53:51 [error] 29#29: *1 "/etc/nginx/aurax-ui/aurax-ui/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /aurax-ui/ HTTP/1.1", host: "192.168.65.133:8008"
+2024/07/17 11:53:51 [error] 29#29: *1 open() "/etc/nginx/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.65.133:8008", referrer: "http://192.168.65.133:8008/aurax-ui/"
+2024/07/17 11:53:51 [error] 29#29: *1 open() "/etc/nginx/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.65.133:8008", referrer: "http://192.168.65.133:8008/aurax-ui/"
+2024/07/17 11:53:51 [error] 29#29: *1 open() "/etc/nginx/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.65.133:8008", referrer: "http://192.168.65.133:8008/aurax-ui/"
+2024/07/17 11:53:51 [error] 29#29: *1 open() "/etc/nginx/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.65.133:8008", referrer: "http://192.168.65.133:8008/aurax-ui/"
+2024/07/17 11:54:51 [info] 29#29: *2 client timed out (110: Connection timed out) while waiting for request, client: 172.20.0.1, server: 0.0.0.0:3000
+2024/07/18 05:56:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/18 05:56:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/18 05:56:46 [notice] 29#29: gracefully shutting down
+2024/07/18 05:56:46 [notice] 29#29: gracefully shutting down
+2024/07/18 05:56:46 [notice] 29#29: exiting
+2024/07/18 05:56:46 [notice] 29#29: exiting
+2024/07/18 05:56:46 [notice] 29#29: exit
+2024/07/18 05:56:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/18 05:56:46 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/18 05:56:46 [notice] 1#1: worker process 29 exited with code 0
+2024/07/18 05:56:46 [notice] 1#1: worker process 29 exited with code 0
+2024/07/18 05:56:46 [notice] 1#1: exit
+2024/07/18 05:56:46 [notice] 1#1: exit
+2024/07/22 09:24:02 [notice] 1#1: using the "epoll" event method
+2024/07/22 09:24:02 [notice] 1#1: using the "epoll" event method
+2024/07/22 09:24:02 [notice] 1#1: nginx/1.27.0
+2024/07/22 09:24:02 [notice] 1#1: nginx/1.27.0
+2024/07/22 09:24:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/22 09:24:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/07/22 09:24:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/22 09:24:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/07/22 09:24:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/22 09:24:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/07/22 09:24:02 [notice] 1#1: start worker processes
+2024/07/22 09:24:02 [notice] 1#1: start worker processes
+2024/07/22 09:24:02 [notice] 1#1: start worker process 29
+2024/07/22 09:24:02 [notice] 1#1: start worker process 29
+2024/07/22 09:51:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/22 09:51:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/07/22 09:51:37 [notice] 29#29: gracefully shutting down
+2024/07/22 09:51:37 [notice] 29#29: gracefully shutting down
+2024/07/22 09:51:37 [notice] 29#29: exiting
+2024/07/22 09:51:37 [notice] 29#29: exiting
+2024/07/22 09:51:37 [notice] 29#29: exit
+2024/07/22 09:51:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/22 09:51:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/07/22 09:51:37 [notice] 1#1: worker process 29 exited with code 0
+2024/07/22 09:51:37 [notice] 1#1: worker process 29 exited with code 0
+2024/07/22 09:51:37 [notice] 1#1: exit
+2024/07/22 09:51:37 [notice] 1#1: exit
+2024/08/02 12:01:58 [notice] 1#1: using the "epoll" event method
+2024/08/02 12:01:58 [notice] 1#1: using the "epoll" event method
+2024/08/02 12:01:58 [notice] 1#1: nginx/1.27.0
+2024/08/02 12:01:58 [notice] 1#1: nginx/1.27.0
+2024/08/02 12:01:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/02 12:01:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/02 12:01:58 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/02 12:01:58 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/02 12:01:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/02 12:01:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/02 12:01:58 [notice] 1#1: start worker processes
+2024/08/02 12:01:58 [notice] 1#1: start worker processes
+2024/08/02 12:01:58 [notice] 1#1: start worker process 29
+2024/08/02 12:01:58 [notice] 1#1: start worker process 29
+2024/08/02 13:46:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/02 13:46:21 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/02 13:46:21 [notice] 29#29: gracefully shutting down
+2024/08/02 13:46:21 [notice] 29#29: gracefully shutting down
+2024/08/02 13:46:21 [notice] 29#29: exiting
+2024/08/02 13:46:21 [notice] 29#29: exiting
+2024/08/02 13:46:21 [notice] 29#29: exit
+2024/08/02 13:46:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/02 13:46:22 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/02 13:46:22 [notice] 1#1: worker process 29 exited with code 0
+2024/08/02 13:46:22 [notice] 1#1: worker process 29 exited with code 0
+2024/08/02 13:46:22 [notice] 1#1: exit
+2024/08/02 13:46:22 [notice] 1#1: exit
+2024/08/07 13:59:02 [notice] 1#1: using the "epoll" event method
+2024/08/07 13:59:02 [notice] 1#1: using the "epoll" event method
+2024/08/07 13:59:02 [notice] 1#1: nginx/1.27.0
+2024/08/07 13:59:02 [notice] 1#1: nginx/1.27.0
+2024/08/07 13:59:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/07 13:59:02 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/07 13:59:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/07 13:59:02 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/07 13:59:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/07 13:59:02 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/07 13:59:02 [notice] 1#1: start worker processes
+2024/08/07 13:59:02 [notice] 1#1: start worker processes
+2024/08/07 13:59:02 [notice] 1#1: start worker process 29
+2024/08/07 13:59:02 [notice] 1#1: start worker process 29
+2024/08/08 07:53:28 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/08/08 08:05:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:05:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:05:59 [notice] 29#29: gracefully shutting down
+2024/08/08 08:05:59 [notice] 29#29: gracefully shutting down
+2024/08/08 08:05:59 [notice] 29#29: exiting
+2024/08/08 08:05:59 [notice] 29#29: exiting
+2024/08/08 08:05:59 [notice] 29#29: exit
+2024/08/08 08:06:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:06:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:06:00 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:06:00 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:06:00 [notice] 1#1: exit
+2024/08/08 08:06:00 [notice] 1#1: exit
+2024/08/08 08:06:51 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:06:51 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:06:51 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:06:51 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:06:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:06:51 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:06:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:06:51 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:06:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:06:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:06:51 [notice] 1#1: start worker processes
+2024/08/08 08:06:51 [notice] 1#1: start worker processes
+2024/08/08 08:06:51 [notice] 1#1: start worker process 29
+2024/08/08 08:06:51 [notice] 1#1: start worker process 29
+2024/08/08 08:08:38 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/08/08 08:14:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:14:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:14:22 [notice] 29#29: gracefully shutting down
+2024/08/08 08:14:22 [notice] 29#29: gracefully shutting down
+2024/08/08 08:14:22 [notice] 29#29: exiting
+2024/08/08 08:14:22 [notice] 29#29: exiting
+2024/08/08 08:14:22 [notice] 29#29: exit
+2024/08/08 08:14:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:14:23 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:14:23 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:14:23 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:14:23 [notice] 1#1: exit
+2024/08/08 08:14:23 [notice] 1#1: exit
+2024/08/08 08:14:47 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:14:47 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:14:47 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:14:47 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:14:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:14:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:14:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:14:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:14:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:14:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:14:47 [notice] 1#1: start worker processes
+2024/08/08 08:14:47 [notice] 1#1: start worker processes
+2024/08/08 08:14:47 [notice] 1#1: start worker process 29
+2024/08/08 08:14:47 [notice] 1#1: start worker process 29
+2024/08/08 08:19:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:19:57 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:19:57 [notice] 29#29: gracefully shutting down
+2024/08/08 08:19:57 [notice] 29#29: gracefully shutting down
+2024/08/08 08:19:57 [notice] 29#29: exiting
+2024/08/08 08:19:57 [notice] 29#29: exiting
+2024/08/08 08:19:57 [notice] 29#29: exit
+2024/08/08 08:19:57 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:19:57 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:19:57 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:19:57 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:19:57 [notice] 1#1: exit
+2024/08/08 08:19:57 [notice] 1#1: exit
+2024/08/08 08:20:20 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:20:20 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:20:20 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:20:20 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:20:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:20:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:20:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:20:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:20:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:20:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:20:20 [notice] 1#1: start worker processes
+2024/08/08 08:20:20 [notice] 1#1: start worker processes
+2024/08/08 08:20:20 [notice] 1#1: start worker process 29
+2024/08/08 08:20:20 [notice] 1#1: start worker process 29
+2024/08/08 08:22:05 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/08/08 08:27:19 [info] 29#29: *2 client 172.19.0.1 closed keepalive connection
+2024/08/08 08:31:25 [info] 29#29: *3 client 172.19.0.1 closed keepalive connection
+2024/08/08 08:46:13 [info] 29#29: *4 client 172.19.0.1 closed keepalive connection
+2024/08/08 08:46:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:46:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 08:46:51 [notice] 29#29: gracefully shutting down
+2024/08/08 08:46:51 [notice] 29#29: gracefully shutting down
+2024/08/08 08:46:51 [notice] 29#29: exiting
+2024/08/08 08:46:51 [notice] 29#29: exiting
+2024/08/08 08:46:51 [notice] 29#29: exit
+2024/08/08 08:46:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:46:51 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 08:46:51 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:46:51 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 08:46:51 [notice] 1#1: exit
+2024/08/08 08:46:51 [notice] 1#1: exit
+2024/08/08 08:47:15 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:47:15 [notice] 1#1: using the "epoll" event method
+2024/08/08 08:47:15 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:47:15 [notice] 1#1: nginx/1.27.0
+2024/08/08 08:47:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:47:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 08:47:15 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:47:15 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 08:47:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:47:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 08:47:15 [notice] 1#1: start worker processes
+2024/08/08 08:47:15 [notice] 1#1: start worker processes
+2024/08/08 08:47:15 [notice] 1#1: start worker process 29
+2024/08/08 08:47:15 [notice] 1#1: start worker process 29
+2024/08/08 08:49:55 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/08/08 09:01:42 [info] 29#29: *2 client 172.20.0.1 closed keepalive connection
+2024/08/08 09:10:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:10:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:10:13 [notice] 29#29: gracefully shutting down
+2024/08/08 09:10:13 [notice] 29#29: gracefully shutting down
+2024/08/08 09:10:13 [notice] 29#29: exiting
+2024/08/08 09:10:13 [notice] 29#29: exiting
+2024/08/08 09:10:13 [notice] 29#29: exit
+2024/08/08 09:10:13 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:10:13 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:10:13 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:10:13 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:10:13 [notice] 1#1: exit
+2024/08/08 09:10:13 [notice] 1#1: exit
+2024/08/08 09:10:47 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:10:47 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:10:47 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:10:47 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:10:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:10:47 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:10:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:10:47 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:10:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:10:47 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:10:47 [notice] 1#1: start worker processes
+2024/08/08 09:10:47 [notice] 1#1: start worker processes
+2024/08/08 09:10:47 [notice] 1#1: start worker process 29
+2024/08/08 09:10:47 [notice] 1#1: start worker process 29
+2024/08/08 09:12:26 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/08/08 09:18:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:18:05 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:18:05 [notice] 29#29: gracefully shutting down
+2024/08/08 09:18:05 [notice] 29#29: gracefully shutting down
+2024/08/08 09:18:05 [notice] 29#29: exiting
+2024/08/08 09:18:05 [notice] 29#29: exiting
+2024/08/08 09:18:05 [notice] 29#29: exit
+2024/08/08 09:18:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:18:05 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:18:05 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:18:05 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:18:05 [notice] 1#1: exit
+2024/08/08 09:18:05 [notice] 1#1: exit
+2024/08/08 09:18:32 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:18:32 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:18:32 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:18:32 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:18:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:18:32 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:18:32 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:18:32 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:18:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:18:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:18:32 [notice] 1#1: start worker processes
+2024/08/08 09:18:32 [notice] 1#1: start worker processes
+2024/08/08 09:18:32 [notice] 1#1: start worker process 29
+2024/08/08 09:18:32 [notice] 1#1: start worker process 29
+2024/08/08 09:20:30 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/08/08 09:45:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:45:56 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:45:56 [notice] 29#29: gracefully shutting down
+2024/08/08 09:45:56 [notice] 29#29: gracefully shutting down
+2024/08/08 09:45:56 [notice] 29#29: exiting
+2024/08/08 09:45:56 [notice] 29#29: exiting
+2024/08/08 09:45:56 [notice] 29#29: exit
+2024/08/08 09:45:56 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:45:56 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:45:56 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:45:56 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:45:56 [notice] 1#1: exit
+2024/08/08 09:45:56 [notice] 1#1: exit
+2024/08/08 09:46:20 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:46:20 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:46:20 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:46:20 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:46:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:46:20 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:46:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:46:20 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:46:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:46:20 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:46:20 [notice] 1#1: start worker processes
+2024/08/08 09:46:20 [notice] 1#1: start worker processes
+2024/08/08 09:46:20 [notice] 1#1: start worker process 29
+2024/08/08 09:46:20 [notice] 1#1: start worker process 29
+2024/08/08 09:49:20 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/08/08 09:58:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:58:32 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 09:58:32 [notice] 29#29: gracefully shutting down
+2024/08/08 09:58:32 [notice] 29#29: gracefully shutting down
+2024/08/08 09:58:32 [notice] 29#29: exiting
+2024/08/08 09:58:32 [notice] 29#29: exiting
+2024/08/08 09:58:32 [notice] 29#29: exit
+2024/08/08 09:58:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:58:32 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 09:58:32 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:58:32 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 09:58:32 [notice] 1#1: exit
+2024/08/08 09:58:32 [notice] 1#1: exit
+2024/08/08 09:59:45 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:59:45 [notice] 1#1: using the "epoll" event method
+2024/08/08 09:59:45 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:59:45 [notice] 1#1: nginx/1.27.0
+2024/08/08 09:59:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:59:45 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 09:59:45 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:59:45 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 09:59:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:59:45 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 09:59:45 [notice] 1#1: start worker processes
+2024/08/08 09:59:45 [notice] 1#1: start worker processes
+2024/08/08 09:59:45 [notice] 1#1: start worker process 29
+2024/08/08 09:59:45 [notice] 1#1: start worker process 29
+2024/08/08 10:01:21 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/08/08 10:06:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:06:18 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:06:18 [notice] 29#29: gracefully shutting down
+2024/08/08 10:06:18 [notice] 29#29: gracefully shutting down
+2024/08/08 10:06:18 [notice] 29#29: exiting
+2024/08/08 10:06:18 [notice] 29#29: exiting
+2024/08/08 10:06:18 [notice] 29#29: exit
+2024/08/08 10:06:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:06:18 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:06:18 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:06:18 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:06:18 [notice] 1#1: exit
+2024/08/08 10:06:18 [notice] 1#1: exit
+2024/08/08 10:06:42 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:06:42 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:06:42 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:06:42 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:06:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:06:42 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:06:42 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:06:42 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:06:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:06:42 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:06:42 [notice] 1#1: start worker processes
+2024/08/08 10:06:42 [notice] 1#1: start worker processes
+2024/08/08 10:06:42 [notice] 1#1: start worker process 30
+2024/08/08 10:06:42 [notice] 1#1: start worker process 30
+2024/08/08 10:11:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:11:10 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:11:10 [notice] 30#30: gracefully shutting down
+2024/08/08 10:11:10 [notice] 30#30: gracefully shutting down
+2024/08/08 10:11:10 [notice] 30#30: exiting
+2024/08/08 10:11:10 [notice] 30#30: exiting
+2024/08/08 10:11:10 [notice] 30#30: exit
+2024/08/08 10:11:11 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/08/08 10:11:11 [notice] 1#1: signal 17 (SIGCHLD) received from 30
+2024/08/08 10:11:11 [notice] 1#1: worker process 30 exited with code 0
+2024/08/08 10:11:11 [notice] 1#1: worker process 30 exited with code 0
+2024/08/08 10:11:11 [notice] 1#1: exit
+2024/08/08 10:11:11 [notice] 1#1: exit
+2024/08/08 10:11:34 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:11:34 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:11:34 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:11:34 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:11:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:11:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:11:34 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:11:34 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:11:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:11:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:11:34 [notice] 1#1: start worker processes
+2024/08/08 10:11:34 [notice] 1#1: start worker processes
+2024/08/08 10:11:34 [notice] 1#1: start worker process 29
+2024/08/08 10:11:34 [notice] 1#1: start worker process 29
+2024/08/08 10:37:20 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/08/08 10:47:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:47:37 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:47:37 [notice] 29#29: gracefully shutting down
+2024/08/08 10:47:37 [notice] 29#29: gracefully shutting down
+2024/08/08 10:47:37 [notice] 29#29: exiting
+2024/08/08 10:47:37 [notice] 29#29: exiting
+2024/08/08 10:47:37 [notice] 29#29: exit
+2024/08/08 10:47:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:47:37 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:47:37 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:47:37 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:47:37 [notice] 1#1: exit
+2024/08/08 10:47:37 [notice] 1#1: exit
+2024/08/08 10:48:01 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:48:01 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:48:01 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:48:01 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:48:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:48:01 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:48:01 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:48:01 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:48:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:48:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:48:01 [notice] 1#1: start worker processes
+2024/08/08 10:48:01 [notice] 1#1: start worker processes
+2024/08/08 10:48:01 [notice] 1#1: start worker process 29
+2024/08/08 10:48:01 [notice] 1#1: start worker process 29
+2024/08/08 10:49:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:49:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/08/08 10:49:07 [notice] 29#29: gracefully shutting down
+2024/08/08 10:49:07 [notice] 29#29: gracefully shutting down
+2024/08/08 10:49:07 [notice] 29#29: exiting
+2024/08/08 10:49:07 [notice] 29#29: exiting
+2024/08/08 10:49:07 [notice] 29#29: exit
+2024/08/08 10:49:07 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:49:07 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/08/08 10:49:07 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:49:07 [notice] 1#1: worker process 29 exited with code 0
+2024/08/08 10:49:07 [notice] 1#1: exit
+2024/08/08 10:49:07 [notice] 1#1: exit
+2024/08/08 10:49:30 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:49:30 [notice] 1#1: using the "epoll" event method
+2024/08/08 10:49:30 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:49:30 [notice] 1#1: nginx/1.27.0
+2024/08/08 10:49:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:49:30 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/08/08 10:49:30 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:49:30 [notice] 1#1: OS: Linux 5.15.146.1-microsoft-standard-WSL2
+2024/08/08 10:49:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:49:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/08/08 10:49:30 [notice] 1#1: start worker processes
+2024/08/08 10:49:30 [notice] 1#1: start worker processes
+2024/08/08 10:49:30 [notice] 1#1: start worker process 29
+2024/08/08 10:49:30 [notice] 1#1: start worker process 29
+2024/09/02 06:58:58 [notice] 1#1: using the "epoll" event method
+2024/09/02 06:58:58 [notice] 1#1: using the "epoll" event method
+2024/09/02 06:58:58 [notice] 1#1: nginx/1.27.1
+2024/09/02 06:58:58 [notice] 1#1: nginx/1.27.1
+2024/09/02 06:58:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/02 06:58:58 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/02 06:58:58 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/02 06:58:58 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/02 06:58:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/02 06:58:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/02 06:58:58 [notice] 1#1: start worker processes
+2024/09/02 06:58:58 [notice] 1#1: start worker processes
+2024/09/02 06:58:58 [notice] 1#1: start worker process 29
+2024/09/02 06:58:58 [notice] 1#1: start worker process 29
+2024/09/02 07:10:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/02 07:10:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/02 07:10:00 [notice] 29#29: gracefully shutting down
+2024/09/02 07:10:00 [notice] 29#29: gracefully shutting down
+2024/09/02 07:10:00 [notice] 29#29: exiting
+2024/09/02 07:10:00 [notice] 29#29: exiting
+2024/09/02 07:10:00 [notice] 29#29: exit
+2024/09/02 07:10:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/02 07:10:00 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/02 07:10:00 [notice] 1#1: worker process 29 exited with code 0
+2024/09/02 07:10:00 [notice] 1#1: worker process 29 exited with code 0
+2024/09/02 07:10:00 [notice] 1#1: exit
+2024/09/02 07:10:00 [notice] 1#1: exit
+2024/09/02 07:10:23 [notice] 1#1: using the "epoll" event method
+2024/09/02 07:10:23 [notice] 1#1: using the "epoll" event method
+2024/09/02 07:10:23 [notice] 1#1: nginx/1.27.1
+2024/09/02 07:10:23 [notice] 1#1: nginx/1.27.1
+2024/09/02 07:10:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/02 07:10:23 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/02 07:10:23 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/02 07:10:23 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/02 07:10:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/02 07:10:23 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/02 07:10:23 [notice] 1#1: start worker processes
+2024/09/02 07:10:23 [notice] 1#1: start worker processes
+2024/09/02 07:10:23 [notice] 1#1: start worker process 29
+2024/09/02 07:10:23 [notice] 1#1: start worker process 29
+2024/09/02 07:14:22 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/09/11 14:42:13 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:42:13 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:42:13 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:42:13 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:42:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:42:13 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:42:13 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:42:13 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:42:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:42:13 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:42:13 [notice] 1#1: start worker processes
+2024/09/11 14:42:13 [notice] 1#1: start worker processes
+2024/09/11 14:42:13 [notice] 1#1: start worker process 29
+2024/09/11 14:42:13 [notice] 1#1: start worker process 29
+2024/09/11 14:53:31 [info] 29#29: *1 client 172.19.0.1 closed keepalive connection
+2024/09/11 14:55:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 14:55:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 14:55:14 [notice] 29#29: gracefully shutting down
+2024/09/11 14:55:14 [notice] 29#29: gracefully shutting down
+2024/09/11 14:55:14 [notice] 29#29: exiting
+2024/09/11 14:55:14 [notice] 29#29: exiting
+2024/09/11 14:55:14 [notice] 29#29: exit
+2024/09/11 14:55:14 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 14:55:14 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 14:55:14 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 14:55:14 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 14:55:14 [notice] 1#1: exit
+2024/09/11 14:55:14 [notice] 1#1: exit
+2024/09/11 14:55:39 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:55:39 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:55:39 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:55:39 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:55:39 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:55:39 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:55:39 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:55:39 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:55:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:55:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:55:39 [notice] 1#1: start worker processes
+2024/09/11 14:55:39 [notice] 1#1: start worker processes
+2024/09/11 14:55:39 [notice] 1#1: start worker process 29
+2024/09/11 14:55:39 [notice] 1#1: start worker process 29
+2024/09/11 14:57:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 14:57:30 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 14:57:30 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/09/11 14:57:30 [notice] 29#29: gracefully shutting down
+2024/09/11 14:57:30 [notice] 29#29: gracefully shutting down
+2024/09/11 14:57:30 [notice] 29#29: exiting
+2024/09/11 14:57:30 [notice] 29#29: exiting
+2024/09/11 14:57:30 [notice] 29#29: exit
+2024/09/11 14:57:30 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 14:57:30 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 14:57:30 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 14:57:30 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 14:57:30 [notice] 1#1: exit
+2024/09/11 14:57:30 [notice] 1#1: exit
+2024/09/11 14:58:15 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:58:15 [notice] 1#1: using the "epoll" event method
+2024/09/11 14:58:15 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:58:15 [notice] 1#1: nginx/1.27.1
+2024/09/11 14:58:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:58:15 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/09/11 14:58:15 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:58:15 [notice] 1#1: OS: Linux 5.15.153.1-microsoft-standard-WSL2
+2024/09/11 14:58:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:58:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/09/11 14:58:15 [notice] 1#1: start worker processes
+2024/09/11 14:58:15 [notice] 1#1: start worker processes
+2024/09/11 14:58:15 [notice] 1#1: start worker process 29
+2024/09/11 14:58:15 [notice] 1#1: start worker process 29
+2024/09/11 14:59:28 [info] 29#29: *1 client 172.20.0.1 closed keepalive connection
+2024/09/11 15:00:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 15:00:24 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/09/11 15:00:24 [notice] 29#29: gracefully shutting down
+2024/09/11 15:00:24 [notice] 29#29: gracefully shutting down
+2024/09/11 15:00:24 [notice] 29#29: exiting
+2024/09/11 15:00:24 [notice] 29#29: exiting
+2024/09/11 15:00:24 [notice] 29#29: exit
+2024/09/11 15:00:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 15:00:24 [notice] 1#1: signal 17 (SIGCHLD) received from 29
+2024/09/11 15:00:24 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 15:00:24 [notice] 1#1: worker process 29 exited with code 0
+2024/09/11 15:00:24 [notice] 1#1: exit
+2024/09/11 15:00:24 [notice] 1#1: exit
